@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commenti a: Tortillas di Farina	</title>
+	<atom:link href="/tortillas-di-farina/feed/" rel="self" type="application/rss+xml" />
+	<link>/tortillas-di-farina/</link>
+	<description>Ricette semplici e divertenti per la casa</description>
+	<lastBuildDate>Thu, 23 Apr 2020 07:15:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		Di: Tina		</title>
+		<link>/tortillas-di-farina/#comment-16</link>
+
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 07:46:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3251#comment-16</guid>
+
+					<description><![CDATA[In risposta a &lt;a href=&quot;/tortillas-di-farina/#comment-15&quot;&gt;Cle&lt;/a&gt;.
+
+Felice di esserti d&#039;aiuto come tu sei d&#039;ispirazione per me! Restiamo a casa..ma viaggiamo con il cibo!]]></description>
+			<content:encoded><![CDATA[<p>In risposta a <a href="/tortillas-di-farina/#comment-15">Cle</a>.</p>
+<p>Felice di esserti d&#8217;aiuto come tu sei d&#8217;ispirazione per me! Restiamo a casa..ma viaggiamo con il cibo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Di: Cle		</title>
+		<link>/tortillas-di-farina/#comment-15</link>
+
+		<dc:creator><![CDATA[Cle]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2020 20:02:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3251#comment-15</guid>
+
+					<description><![CDATA[Ecco vedi!
+Mi serviva una tortilla per il mio taco di Pasquetta ma non avevo una ricetta sottomano!
+Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente rifarlo! :)]]></description>
+			<content:encoded><![CDATA[<p>Ecco vedi!<br />
+Mi serviva una tortilla per il mio taco di Pasquetta ma non avevo una ricetta sottomano!<br />
+Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente rifarlo! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

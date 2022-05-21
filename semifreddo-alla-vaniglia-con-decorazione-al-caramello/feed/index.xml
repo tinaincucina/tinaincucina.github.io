@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commenti a: Semifreddo alla Vaniglia con decorazione al Caramello	</title>
+	<atom:link href="/semifreddo-alla-vaniglia-con-decorazione-al-caramello/feed/" rel="self" type="application/rss+xml" />
+	<link>/semifreddo-alla-vaniglia-con-decorazione-al-caramello/</link>
+	<description>Ricette semplici e divertenti per la casa</description>
+	<lastBuildDate>Thu, 30 Apr 2020 15:09:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		Di: Tina		</title>
+		<link>/semifreddo-alla-vaniglia-con-decorazione-al-caramello/#comment-25</link>
+
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2020 15:09:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3926#comment-25</guid>
+
+					<description><![CDATA[In risposta a &lt;a href=&quot;/semifreddo-alla-vaniglia-con-decorazione-al-caramello/#comment-24&quot;&gt;Francesca&lt;/a&gt;.
+
+grazie Francesca! provane qualcuno e poi mi fai sapere! ;)]]></description>
+			<content:encoded><![CDATA[<p>In risposta a <a href="/semifreddo-alla-vaniglia-con-decorazione-al-caramello/#comment-24">Francesca</a>.</p>
+<p>grazie Francesca! provane qualcuno e poi mi fai sapere! 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Di: Francesca		</title>
+		<link>/semifreddo-alla-vaniglia-con-decorazione-al-caramello/#comment-24</link>
+
+		<dc:creator><![CDATA[Francesca]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2020 14:27:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3926#comment-24</guid>
+
+					<description><![CDATA[Tina i tuoi piatti sono belli e buoni]]></description>
+			<content:encoded><![CDATA[<p>Tina i tuoi piatti sono belli e buoni</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
