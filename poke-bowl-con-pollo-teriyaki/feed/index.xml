@@ -11,11 +11,11 @@
 	<atom:link href="/poke-bowl-con-pollo-teriyaki/feed/" rel="self" type="application/rss+xml" />
 	<link>/poke-bowl-con-pollo-teriyaki/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<lastBuildDate>Sat, 22 Jan 2022 13:32:16 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 May 2022 07:08:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>

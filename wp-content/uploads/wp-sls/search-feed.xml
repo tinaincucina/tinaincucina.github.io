@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-21 07:59" -->
+	<!-- generator="WordPress/6.0" created="2022-05-29 13:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tina in Cucina</title>
 	<link>/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<pubDate>Sat, 21 May 2022 07:59:21 +0000</pubDate>
+	<pubDate>Sun, 29 May 2022 13:23:22 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>/</wp:base_site_url>
@@ -38,7 +38,7 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Tina]]></wp:author_login><wp:author_email><![CDATA[pattycookie@zoho.com]]></wp:author_email><wp:author_display_name><![CDATA[Tina]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
@@ -6875,7 +6875,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_edc2e30e5b25f32c0a1d804c20ab4d6b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708501]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714430]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -7230,7 +7230,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_065629906cea353d445f80e960151b5d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708507]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714433]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -8382,7 +8382,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_2aa2a407159d9cdb358e72fd3211b8fd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708523]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714444]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -9409,7 +9409,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_678e80f50c2ad2eade071ff9c9dc93e9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708536]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714453]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10156,7 +10156,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8aa91fc671dfa40ee98784e48b254c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708546]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714460]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10410,7 +10410,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_0842c12f6093fc37c68af40a6e30301c]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708549]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714462]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -11445,7 +11445,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4541d58c2a43e272bd87909f3d3b743f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708561]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714470]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12200,7 +12200,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b296f8e04d0af9d4989a7574916a7491]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708571]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714476]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12935,7 +12935,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_020347487d2ed9faa97ae6b2a926ab78]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708581]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714483]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -13463,7 +13463,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1bc0d8a8d15edb8465de06d7ed7e6bac]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708587]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714487]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -14135,7 +14135,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_47bc5ecc1785178adefb08f4bf9ad089]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708597]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714493]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -17831,7 +17831,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_c3dd83710026d23674565c845f417b7f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708652]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714530]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -18957,7 +18957,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_e0352a7af4421505b2bd3f6b5e1bd8ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708664]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714538]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -27439,7 +27439,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_6ae237dadf8a29d1bfe86e4d7965ce40]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708777]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714622]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28247,7 +28247,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1696e896ef12b27f03224e0176872a30]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708789]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714630]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28375,7 +28375,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_06baac6da4e0b40cc71c2bcce16be064]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708770]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714616]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28609,7 +28609,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_59723b081a734c5c7819c68a423f4c0e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708772]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714618]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -31754,7 +31754,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_5fb127146ae1c174819d61393e18f3d3]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708832]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714663]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33125,7 +33125,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_83725416b1fdeb2a9a08f60c6a8389ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708850]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714680]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33710,7 +33710,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_30d3eb842f653f17b007f1c70525477b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708859]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714685]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -34158,7 +34158,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_d0d8b5fe8eb69ed53f5ada17cc5815b4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708864]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714689]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -35567,7 +35567,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ade33ab2bd0e3ca863126017ef4bc804]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708880]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714700]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -40551,7 +40551,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b869ed22677ba440d00e05ffe0e618f7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708948]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714747]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -41490,7 +41490,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7e80851ea45fe6f11c501467ec710ad6]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708959]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714754]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -42291,7 +42291,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4c9320317838c33cad386e7306df12e4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708969]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714761]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -43254,7 +43254,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8e864dd78f343fbb0a7abce23f570654]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655708982]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714770]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -45397,7 +45397,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7fa446452d44e6ed71c53d02b4cb0c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655709007]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714787]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -46099,7 +46099,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b738c0d3692c32ed67202af5376c4cc5]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655709016]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714794]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -53227,7 +53227,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_deeeb03f0150a9942a6325919e366bba]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655709112]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714859]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -56537,11 +56537,13 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		<guid isPermaLink="false">/?p=8501</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>La<em><strong> </strong></em>Poke bowl è un piatto unico completo, di origine Hawaiana, dal sapore esotico ed orientale, fresco, leggero, salutare e colorato; solitamente viene servito come antipasto o primo piatto, ma è perfetto anche come piatto unico poiché contiene la giusta quantità di proteine, carboidrati e grassi buoni. Si tratta di una preparazione veloce e facilissima, perfetta per tutte le occasioni! Come ogni ricetta tradizionale esistono diverse versioni: alla base c'è sempre il riso (basmati, integrale, nero), per la parte proteica potete utilizzare anche salmone o tonno freschi abbattuti (o salmone affumicato, polpa di granchio per chi non ama il crudo), per la frutta e verdura potete aggiungere ananas o ravanelli, pomodori e zucchine a vapore...il segreto è il colorare il più possibile! </p>
+<p>La Poke bowl è un piatto unico completo, di origine Hawaiana, dal sapore esotico ed orientale, fresco, leggero, salutare e colorato; solitamente viene servito come antipasto o primo piatto, ma è perfetto anche come piatto unico poiché contiene la giusta quantità di proteine, carboidrati e grassi buoni. Si tratta di una preparazione veloce e facilissima, perfetta per tutte le occasioni! Come ogni ricetta tradizionale esistono diverse versioni: alla base c'è sempre il riso (basmati, integrale, nero), per la parte proteica potete utilizzare anche salmone o tonno freschi abbattuti (o salmone affumicato, polpa di granchio per chi non ama il crudo), per la frutta e verdura potete aggiungere ananas o ravanelli, pomodori e zucchine a vapore...il segreto è il colorare il più possibile!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Il termine Poke o Pokè<strong> </strong>in hawaiano significa proprio<strong> </strong>“tagliare a pezzi”; questo piatto ha origini antiche: nel 400 dC, i pescatori dell’Oceano pacifico lo preparavano come spuntino, semplicemente con pesce fresco avanzato. </p></blockquote>
+<blockquote class="wp-block-quote">
+<p>Il termine Poke o Pokè in hawaiano significa proprio “tagliare a pezzi”; questo piatto ha origini antiche: nel 400 dC, i pescatori dell’Oceano pacifico lo preparavano come spuntino, semplicemente con pesce fresco avanzato.</p>
+</blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -56549,7 +56551,21 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>160 gr di Riso Basmati </li><li>200 ml di acqua</li><li>250 gr di petto di pollo</li><li>20 gr di salsa teriyaki (o salsa di soia)</li><li>aglio in polvere q.b.</li><li>un cucchiaino di succo di limone</li><li>sale q.b.</li><li>100 gr di edamame (fagioli di soia)</li><li>1 avocado</li><li>1/2 mango</li><li>una foglia di alga Nori o alga Wakame</li><li>1 cucchiaio abbondante di semi di sesamo</li><li>1 cucchiaio di aceto di riso</li></ul>
+<ul>
+<li>160 gr di Riso Basmati</li>
+<li>200 ml di acqua</li>
+<li>250 gr di petto di pollo</li>
+<li>20 gr di salsa teriyaki (o salsa di soia)</li>
+<li>aglio in polvere q.b.</li>
+<li>un cucchiaino di succo di limone</li>
+<li>sale q.b.</li>
+<li>100 gr di edamame (fagioli di soia)</li>
+<li>1 avocado</li>
+<li>1/2 mango</li>
+<li>una foglia di alga Nori o alga Wakame</li>
+<li>1 cucchiaio abbondante di semi di sesamo</li>
+<li>1 cucchiaio di aceto di riso</li>
+</ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -56557,15 +56573,15 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8510,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/01/photo6007832350391646267.jpg" alt="" class="wp-image-8510"/></figure>
+<figure class="wp-block-image size-full"><img class="wp-image-8510" src="/wp-content/uploads/2022/01/photo6007832350391646267.jpg" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Preparate il<strong> </strong>riso: sciacquatelo sotto l’acqua corrente, in modo da eliminare tutto l’amido; dovrete fare questa operazione per 4-5 volte, fino a quando l’acqua non risulti trasparente. Scolate poi il riso dall’acqua e lasciate riposare per 15 minuti. Mettete il riso in una pentola e unite l’acqua fredda, coprite con un coperchio e portate l’acqua ad ebollizione.</p>
+<p>Preparate il riso: sciacquatelo sotto l’acqua corrente, in modo da eliminare tutto l’amido; dovrete fare questa operazione per 4-5 volte, fino a quando l’acqua non risulti trasparente. Scolate poi il riso dall’acqua e lasciate riposare per 15 minuti. Mettete il riso in una pentola e unite l’acqua fredda, coprite con un coperchio e portate l’acqua ad ebollizione.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8511,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/01/photo6007832350391646268.jpg" alt="" class="wp-image-8511"/></figure>
+<figure class="wp-block-image size-full"><img class="wp-image-8511" src="/wp-content/uploads/2022/01/photo6007832350391646268.jpg" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -56577,7 +56593,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8512,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/01/photo6007832350391646264.jpg" alt="" class="wp-image-8512"/></figure>
+<figure class="wp-block-image size-full"><img class="wp-image-8512" src="/wp-content/uploads/2022/01/photo6007832350391646264.jpg" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -56589,7 +56605,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8513,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/01/photo6007832350391646263.jpg" alt="" class="wp-image-8513"/></figure>
+<figure class="wp-block-image size-full"><img class="wp-image-8513" src="/wp-content/uploads/2022/01/photo6007832350391646263.jpg" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -56597,18 +56613,30 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[8514,8515],"linkTo":"none"} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="/wp-content/uploads/2022/01/photo6007832350391646265.jpg" alt="" data-id="8514" data-link="/?attachment_id=8514#main" class="wp-image-8514"/></figure></li><li class="blocks-gallery-item"><figure><img src="/wp-content/uploads/2022/01/photo6007832350391646266.jpg" alt="" data-id="8515" data-link="/?attachment_id=8515#main" class="wp-image-8515"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped">
+<ul class="blocks-gallery-grid">
+<li class="blocks-gallery-item">
+<figure><img class="wp-image-8514" src="/wp-content/uploads/2022/01/photo6007832350391646265.jpg" alt="" data-id="8514" data-link="/?attachment_id=8514#main" /></figure>
+</li>
+<li class="blocks-gallery-item">
+<figure><img class="wp-image-8515" src="/wp-content/uploads/2022/01/photo6007832350391646266.jpg" alt="" data-id="8515" data-link="/?attachment_id=8515#main" /></figure>
+</li>
+</ul>
+</figure>
 <!-- /wp:gallery -->
 
 <!-- wp:image {"id":8516,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/01/photo6007832350391646262.jpg" alt="" class="wp-image-8516"/></figure>
+<figure class="wp-block-image size-full"><img class="wp-image-8516" src="/wp-content/uploads/2022/01/photo6007832350391646262.jpg" alt="" /></figure>
+<p>Un' altra versione del POKE potrebbe essere con POLLO e FUNGHI SHIITAKE! BUONISSIMA!</p>
+<p><img class="alignnone size-full wp-image-8826" src="/wp-content/uploads/2022/01/photo5803052755009517961.jpg" alt="" width="1011" height="942" /></p>
+<p><img class="alignnone size-full wp-image-8827" src="/wp-content/uploads/2022/01/photo5803052755009517960.jpg" alt="" width="1280" height="960" /></p>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8501</wp:post_id>
 		<wp:post_date><![CDATA[2022-01-22 13:32:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-01-22 13:32:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-22 13:32:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-22 13:32:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-05-28 07:08:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-28 07:08:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[poke-bowl-con-pollo-teriyaki]]></wp:post_name>
@@ -56634,7 +56662,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
@@ -56645,20 +56673,16 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		<wp:meta_value><![CDATA[8509]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crp_cache_ecaa432f043683c854c2d0612c86db3b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{i:0;i:2469;i:1;i:7697;i:2;i:937;i:3;i:3459;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ecaa432f043683c854c2d0612c86db3b]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1653383924]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crp_cache_d914e6dc6e46a3e9f3694d8a3c216b48]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{i:0;i:887;i:1;i:3312;i:2;i:524;i:3;i:937;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_d914e6dc6e46a3e9f3694d8a3c216b48]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1655395118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -56667,10 +56691,6 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_total_shares]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[459199]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56794,7 +56814,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_48ca52a81cc4cbb678559798920b94fe]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1655709159]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1655714895]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -58960,6 +58980,110 @@ Ecco pronto il <strong>Riso alla cantonese, </strong>colorato e saporito, servit
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8822]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_531e60f6a3013970a440a18ef30d082c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;i:536;i:1;i:937;i:2;i:3675;i:3;i:7371;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_expires_531e60f6a3013970a440a18ef30d082c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1655712118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_total_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[459367]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Riso Venere con Verdure e Gamberetti]]></title>
+		<link>/riso-venere-con-verdure-e-gamberetti/</link>
+		<pubDate>Sun, 29 May 2022 13:23:21 +0000</pubDate>
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<guid isPermaLink="false">/?p=8829</guid>
+		<description></description>
+		<content:encoded><![CDATA[Il Riso Venere con verdure e gamberetti e zucchine è un primo piatto leggero, colorato e saporito, semplice da realizzare e perfetto per un pranzo estivo o un buffet, una gita fuori porta, insomma per tutte le occasioni! Questo piatto gustoso e delicato, ricco di proprietà nutrizionali grazie al riso venere, è a base di gamberetti, piselli, anacardi e le verdure che preferite, piace proprio a tutti, ed è anche molto bello da vedere!
+<blockquote>Il riso Venere contiene antocianine, flavonoli e acidi fenolici, composti fenolici di cui sono note le proprietà antiossidanti; contiene fibre insolubili, vitamine e sali minerali come selenio, ferro, calcio, zinco e manganese,; ha un basso livello di zuccheri</blockquote>
+Ingredienti per 3/4 persone
+<ul>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">300 gr <span class="recipe-ingredient-name"> Riso nero Venere </span></div></li>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">100 gr <span class="recipe-ingredient-name"> Gamberetti surgelati </span></div></li>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">una <span class="recipe-ingredient-name"> Zucchina</span></div></li>
+ 	<li>mezzo porro</li>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">200 gr di piselli surgelati</div></li>
+ 	<li>due pomodori</li>
+ 	<li>100 gr di anacardi tostati</li>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">q.b. <span class="recipe-ingredient-name"> Olio extravergine d'oliva </span></div></li>
+ 	<li>
+<div class="recipe-ingredient-item ingredient_font_size_small">q.b. <span class="recipe-ingredient-name"> Sale, pepe </span></div></li>
+ 	<li>un cucchiaio di salsa di soia</li>
+ 	<li>basilico fresco</li>
+</ul>
+<p align="JUSTIFY">Per prima cosa iniziate con la cottura del Riso Venere. Portate a bollore abbondante acqua, salatela e versate il riso nero. Seguite il tempo di cottura indicato sulla vostra confezione del Riso Venere, circa 40/45 minuti, poi scolate il riso e mettete da parte.</p>
+<p align="JUSTIFY">Fate bollire i gamberetti surgelati per 5/6 minuti, poi mettete da parte; fate la stessa cosa con i piselli, che farete bollire 10 minuti.</p>
+<p align="JUSTIFY"><img class="alignnone size-full wp-image-8817" src="/wp-content/uploads/2022/05/photo5782690774620683315.jpg" alt="" width="866" height="960" /></p>
+<p align="JUSTIFY">Fate dorare il porro tritato in una padella tipo wok, con due cucchiai di olio extravergine di oliva.</p>
+<p align="JUSTIFY">Unite la zucchina tagliata a pezzetti e cuocete, a fuoco medio, per ca. 5 minuti, mescolando di tanto in tanto. Salate e pepate.</p>
+<p align="JUSTIFY">Unite anche i pomodori a pezzetti, i gamberetti, i piselli e infine gli anacardi; aggiungete la salsa di soia e lasciate evaporare.</p>
+<p align="JUSTIFY"><img class="alignnone size-full wp-image-8830" src="/wp-content/uploads/2022/05/photo5807893483799820636.jpg" alt="" width="1107" height="960" /></p>
+<p align="JUSTIFY">Aggiunge infine il riso, mescolate e servite il riso venere direttamente nella pentola con qualche fogliolina di basilico fresco, sentirete che profumo!</p>
+<p align="JUSTIFY"><img class="alignnone size-full wp-image-8831" src="/wp-content/uploads/2022/05/photo5807893483799820633.jpg" alt="" width="1280" height="960" /></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8829</wp:post_id>
+		<wp:post_date><![CDATA[2022-05-29 13:23:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-05-29 13:23:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-29 13:23:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-29 13:23:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[riso-venere-con-verdure-e-gamberetti]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="primi-piatti"><![CDATA[Primi Piatti]]></category>
+		<category domain="category" nicename="ricette-light"><![CDATA[Ricette Light]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_revision-control]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:8:"defaults";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8832]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>

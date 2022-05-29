@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
@@ -283,7 +283,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1101" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291143.jpg" alt="" data-id="8656" class="wp-image-8656"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="864" src="/wp-content/uploads/2022/03/photo5848231627665291135-1.jpg" alt="" data-id="8660" data-link="/?attachment_id=8660#main" class="wp-image-8660"/></figure></li><li class="blocks-gallery-item"><figure><img width="1277" height="819" src="/wp-content/uploads/2022/03/photo5848231627665291138-3.jpg" alt="" data-id="8670" data-link="/?attachment_id=8670#main" class="wp-image-8670"/></figure></li></ul></figure>
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1101" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291143.jpg" alt="" data-id="8656" class="wp-image-8656"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="864" src="/wp-content/uploads/2022/03/photo5848231627665291135-1.jpg" alt="" data-id="8660" data-link="/?attachment_id=8660#main" class="wp-image-8660"/></figure></li><li class="blocks-gallery-item"><figure><img width="1277" height="819" src="/wp-content/uploads/2022/03/photo5848231627665291138-3.jpg" alt="" data-id="8670" data-link="/?attachment_id=8670#main" class="wp-image-8670"/></figure></li></ul></figure>
 
 
 
@@ -299,7 +299,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291141.jpg" alt="" data-id="8663" data-link="/?attachment_id=8663#main" class="wp-image-8663"/></figure></li><li class="blocks-gallery-item"><figure><img width="1209" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291136.jpg" alt="" data-id="8664" data-link="/?attachment_id=8664#main" class="wp-image-8664"/></figure></li></ul></figure>
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291141.jpg" alt="" data-id="8663" data-link="/?attachment_id=8663#main" class="wp-image-8663"/></figure></li><li class="blocks-gallery-item"><figure><img width="1209" height="960" src="/wp-content/uploads/2022/03/photo5848231627665291136.jpg" alt="" data-id="8664" data-link="/?attachment_id=8664#main" class="wp-image-8664"/></figure></li></ul></figure>
 
 
 
@@ -350,7 +350,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="912" height="921" src="/wp-content/uploads/2022/02/photo5805151082756814964.jpg" alt="" data-id="8609" data-link="/?attachment_id=8609#main" class="wp-image-8609"/></figure></li><li class="blocks-gallery-item"><figure><img width="858" height="870" src="/wp-content/uploads/2022/02/photo5805151082756814955.jpg" alt="" data-id="8610" data-link="/?attachment_id=8610#main" class="wp-image-8610"/></figure></li></ul></figure>
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="912" height="921" src="/wp-content/uploads/2022/02/photo5805151082756814964.jpg" alt="" data-id="8609" data-link="/?attachment_id=8609#main" class="wp-image-8609"/></figure></li><li class="blocks-gallery-item"><figure><img width="858" height="870" src="/wp-content/uploads/2022/02/photo5805151082756814955.jpg" alt="" data-id="8610" data-link="/?attachment_id=8610#main" class="wp-image-8610"/></figure></li></ul></figure>
 
 
 
@@ -362,7 +362,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1191" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814960.jpg" alt="" data-id="8611" data-link="/?attachment_id=8611#main" class="wp-image-8611"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814957.jpg" alt="" data-id="8612" data-link="/?attachment_id=8612#main" class="wp-image-8612"/></figure></li></ul></figure>
+<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1191" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814960.jpg" alt="" data-id="8611" data-link="/?attachment_id=8611#main" class="wp-image-8611"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814957.jpg" alt="" data-id="8612" data-link="/?attachment_id=8612#main" class="wp-image-8612"/></figure></li></ul></figure>
 
 
 
@@ -370,7 +370,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1170" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814954.jpg" alt="" data-id="8613" data-link="/?attachment_id=8613#main" class="wp-image-8613"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814965.jpg" alt="" data-id="8614" data-link="/?attachment_id=8614#main" class="wp-image-8614"/></figure></li></ul></figure>
+<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1170" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814954.jpg" alt="" data-id="8613" data-link="/?attachment_id=8613#main" class="wp-image-8613"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814965.jpg" alt="" data-id="8614" data-link="/?attachment_id=8614#main" class="wp-image-8614"/></figure></li></ul></figure>
 
 
 
@@ -378,7 +378,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814958.jpg" alt="" data-id="8616" data-link="/?attachment_id=8616#main" class="wp-image-8616"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814956.jpg" alt="" data-id="8617" data-link="/?attachment_id=8617#main" class="wp-image-8617"/></figure></li></ul></figure>
+<figure class="wp-container-12 wp-block-gallery-11 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814958.jpg" alt="" data-id="8616" data-link="/?attachment_id=8616#main" class="wp-image-8616"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5805151082756814956.jpg" alt="" data-id="8617" data-link="/?attachment_id=8617#main" class="wp-image-8617"/></figure></li></ul></figure>
 
 
 
@@ -471,7 +471,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5785005826417735900.jpg" alt="" data-id="8586" data-link="/?attachment_id=8586#main" class="wp-image-8586"/></figure></li><li class="blocks-gallery-item"><figure><img width="1056" height="740" src="/wp-content/uploads/2022/02/photo5785005826417735905.jpg" alt="" data-id="8587" data-link="/?attachment_id=8587#main" class="wp-image-8587"/></figure></li></ul></figure>
+<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5785005826417735900.jpg" alt="" data-id="8586" data-link="/?attachment_id=8586#main" class="wp-image-8586"/></figure></li><li class="blocks-gallery-item"><figure><img width="1056" height="740" src="/wp-content/uploads/2022/02/photo5785005826417735905.jpg" alt="" data-id="8587" data-link="/?attachment_id=8587#main" class="wp-image-8587"/></figure></li></ul></figure>
 
 
 
@@ -487,7 +487,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5785005826417735895-1.jpg" alt="" data-id="8592" data-link="/?attachment_id=8592#main" class="wp-image-8592"/></figure></li></ul></figure>
+<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo5785005826417735895-1.jpg" alt="" data-id="8592" data-link="/?attachment_id=8592#main" class="wp-image-8592"/></figure></li></ul></figure>
 <p>L'articolo <a rel="nofollow" href="/biscotti-della-fortuna/">Biscotti della Fortuna</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
 ]]></content:encoded>
 					
@@ -531,7 +531,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="915" height="867" src="/wp-content/uploads/2022/01/photo6032922183535277922.jpg" alt="" data-id="8533" data-link="/?attachment_id=8533#main" class="wp-image-8533"/></figure></li><li class="blocks-gallery-item"><figure><img width="639" height="678" src="/wp-content/uploads/2022/01/photo6032922183535277928.jpg" alt="" data-id="8534" data-link="/?attachment_id=8534#main" class="wp-image-8534"/></figure></li></ul></figure>
+<figure class="wp-container-18 wp-block-gallery-17 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="915" height="867" src="/wp-content/uploads/2022/01/photo6032922183535277922.jpg" alt="" data-id="8533" data-link="/?attachment_id=8533#main" class="wp-image-8533"/></figure></li><li class="blocks-gallery-item"><figure><img width="639" height="678" src="/wp-content/uploads/2022/01/photo6032922183535277928.jpg" alt="" data-id="8534" data-link="/?attachment_id=8534#main" class="wp-image-8534"/></figure></li></ul></figure>
 
 
 
@@ -539,7 +539,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1008" height="726" src="/wp-content/uploads/2022/01/photo6032922183535277932.jpg" alt="" data-id="8535" data-link="/?attachment_id=8535#main" class="wp-image-8535"/></figure></li><li class="blocks-gallery-item"><figure><img width="912" height="795" src="/wp-content/uploads/2022/01/photo6032922183535277926.jpg" alt="" data-id="8536" data-link="/?attachment_id=8536#main" class="wp-image-8536"/></figure></li></ul></figure>
+<figure class="wp-container-20 wp-block-gallery-19 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1008" height="726" src="/wp-content/uploads/2022/01/photo6032922183535277932.jpg" alt="" data-id="8535" data-link="/?attachment_id=8535#main" class="wp-image-8535"/></figure></li><li class="blocks-gallery-item"><figure><img width="912" height="795" src="/wp-content/uploads/2022/01/photo6032922183535277926.jpg" alt="" data-id="8536" data-link="/?attachment_id=8536#main" class="wp-image-8536"/></figure></li></ul></figure>
 
 
 
@@ -555,7 +555,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo6050711697557142003.jpg" alt="" data-id="8561" data-link="/?attachment_id=8561#main" class="wp-image-8561"/></figure></li><li class="blocks-gallery-item"><figure><img width="1164" height="924" src="/wp-content/uploads/2022/02/photo6050711697557142005-1.jpg" alt="" data-id="8562" data-link="/?attachment_id=8562#main" class="wp-image-8562"/></figure></li></ul></figure>
+<figure class="wp-container-22 wp-block-gallery-21 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo6050711697557142003.jpg" alt="" data-id="8561" data-link="/?attachment_id=8561#main" class="wp-image-8561"/></figure></li><li class="blocks-gallery-item"><figure><img width="1164" height="924" src="/wp-content/uploads/2022/02/photo6050711697557142005-1.jpg" alt="" data-id="8562" data-link="/?attachment_id=8562#main" class="wp-image-8562"/></figure></li></ul></figure>
 
 
 
@@ -571,7 +571,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="993" height="960" src="/wp-content/uploads/2022/02/photo6050711697557141997.jpg" alt="" data-id="8565" data-link="/?attachment_id=8565#main" class="wp-image-8565"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo6050711697557142006.jpg" alt="" data-id="8566" data-link="/?attachment_id=8566#main" class="wp-image-8566"/></figure></li></ul></figure>
+<figure class="wp-container-24 wp-block-gallery-23 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="993" height="960" src="/wp-content/uploads/2022/02/photo6050711697557141997.jpg" alt="" data-id="8565" data-link="/?attachment_id=8565#main" class="wp-image-8565"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/02/photo6050711697557142006.jpg" alt="" data-id="8566" data-link="/?attachment_id=8566#main" class="wp-image-8566"/></figure></li></ul></figure>
 
 
 
@@ -623,7 +623,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="915" height="867" src="/wp-content/uploads/2022/01/photo6032922183535277922.jpg" alt="" data-id="8533" data-link="/?attachment_id=8533#main" class="wp-image-8533"/></figure></li><li class="blocks-gallery-item"><figure><img width="639" height="678" src="/wp-content/uploads/2022/01/photo6032922183535277928.jpg" alt="" data-id="8534" data-link="/?attachment_id=8534#main" class="wp-image-8534"/></figure></li></ul></figure>
+<figure class="wp-container-26 wp-block-gallery-25 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="915" height="867" src="/wp-content/uploads/2022/01/photo6032922183535277922.jpg" alt="" data-id="8533" data-link="/?attachment_id=8533#main" class="wp-image-8533"/></figure></li><li class="blocks-gallery-item"><figure><img width="639" height="678" src="/wp-content/uploads/2022/01/photo6032922183535277928.jpg" alt="" data-id="8534" data-link="/?attachment_id=8534#main" class="wp-image-8534"/></figure></li></ul></figure>
 
 
 
@@ -631,7 +631,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1008" height="726" src="/wp-content/uploads/2022/01/photo6032922183535277932.jpg" alt="" data-id="8535" data-link="/?attachment_id=8535#main" class="wp-image-8535"/></figure></li><li class="blocks-gallery-item"><figure><img width="912" height="795" src="/wp-content/uploads/2022/01/photo6032922183535277926.jpg" alt="" data-id="8536" data-link="/?attachment_id=8536#main" class="wp-image-8536"/></figure></li></ul></figure>
+<figure class="wp-container-28 wp-block-gallery-27 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1008" height="726" src="/wp-content/uploads/2022/01/photo6032922183535277932.jpg" alt="" data-id="8535" data-link="/?attachment_id=8535#main" class="wp-image-8535"/></figure></li><li class="blocks-gallery-item"><figure><img width="912" height="795" src="/wp-content/uploads/2022/01/photo6032922183535277926.jpg" alt="" data-id="8536" data-link="/?attachment_id=8536#main" class="wp-image-8536"/></figure></li></ul></figure>
 
 
 
@@ -639,7 +639,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1026" height="960" src="/wp-content/uploads/2022/01/photo6032922183535277933.jpg" alt="" data-id="8537" data-link="/?attachment_id=8537#main" class="wp-image-8537"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo6032922183535277929.jpg" alt="" data-id="8538" data-link="/?attachment_id=8538#main" class="wp-image-8538"/></figure></li></ul></figure>
+<figure class="wp-container-30 wp-block-gallery-29 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1026" height="960" src="/wp-content/uploads/2022/01/photo6032922183535277933.jpg" alt="" data-id="8537" data-link="/?attachment_id=8537#main" class="wp-image-8537"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo6032922183535277929.jpg" alt="" data-id="8538" data-link="/?attachment_id=8538#main" class="wp-image-8538"/></figure></li></ul></figure>
 
 
 
@@ -698,7 +698,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="969" height="897" src="/wp-content/uploads/2022/01/photo5987767637574269681.jpg" alt="" data-id="8492" class="wp-image-8492"/></figure></li><li class="blocks-gallery-item"><figure><img width="972" height="948" src="/wp-content/uploads/2022/01/photo5987767637574269672.jpg" alt="" data-id="8493" data-link="/?attachment_id=8493#main" class="wp-image-8493"/></figure></li></ul></figure>
+<figure class="wp-container-32 wp-block-gallery-31 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="969" height="897" src="/wp-content/uploads/2022/01/photo5987767637574269681.jpg" alt="" data-id="8492" class="wp-image-8492"/></figure></li><li class="blocks-gallery-item"><figure><img width="972" height="948" src="/wp-content/uploads/2022/01/photo5987767637574269672.jpg" alt="" data-id="8493" data-link="/?attachment_id=8493#main" class="wp-image-8493"/></figure></li></ul></figure>
 
 
 
@@ -710,7 +710,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="882" height="948" src="/wp-content/uploads/2022/01/photo5987767637574269673.jpg" alt="" data-id="8494" data-link="/?attachment_id=8494#main" class="wp-image-8494"/></figure></li><li class="blocks-gallery-item"><figure><img width="902" height="886" src="/wp-content/uploads/2022/01/photo5987767637574269676.jpg" alt="" data-id="8495" data-link="/?attachment_id=8495#main" class="wp-image-8495"/></figure></li></ul></figure>
+<figure class="wp-container-34 wp-block-gallery-33 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="882" height="948" src="/wp-content/uploads/2022/01/photo5987767637574269673.jpg" alt="" data-id="8494" data-link="/?attachment_id=8494#main" class="wp-image-8494"/></figure></li><li class="blocks-gallery-item"><figure><img width="902" height="886" src="/wp-content/uploads/2022/01/photo5987767637574269676.jpg" alt="" data-id="8495" data-link="/?attachment_id=8495#main" class="wp-image-8495"/></figure></li></ul></figure>
 
 
 
@@ -718,7 +718,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo5987767637574269679.jpg" alt="" data-id="8496" data-link="/?attachment_id=8496#main" class="wp-image-8496"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo5987767637574269683.jpg" alt="" data-id="8497" data-link="/?attachment_id=8497#main" class="wp-image-8497"/></figure></li></ul></figure>
+<figure class="wp-container-36 wp-block-gallery-35 wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo5987767637574269679.jpg" alt="" data-id="8496" data-link="/?attachment_id=8496#main" class="wp-image-8496"/></figure></li><li class="blocks-gallery-item"><figure><img width="1280" height="960" src="/wp-content/uploads/2022/01/photo5987767637574269683.jpg" alt="" data-id="8497" data-link="/?attachment_id=8497#main" class="wp-image-8497"/></figure></li></ul></figure>
 
 
 
