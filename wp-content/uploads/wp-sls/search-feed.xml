@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0" created="2022-06-26 10:01" -->
+	<!-- generator="WordPress/6.0" created="2022-07-05 18:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tina in Cucina</title>
 	<link>/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<pubDate>Sun, 26 Jun 2022 10:01:52 +0000</pubDate>
+	<pubDate>Tue, 05 Jul 2022 18:05:00 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>/</wp:base_site_url>
@@ -6875,7 +6875,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_edc2e30e5b25f32c0a1d804c20ab4d6b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756357]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831398]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -7230,7 +7230,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_065629906cea353d445f80e960151b5d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756363]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831688]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -8382,7 +8382,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_2aa2a407159d9cdb358e72fd3211b8fd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756381]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831710]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -9409,7 +9409,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_678e80f50c2ad2eade071ff9c9dc93e9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756396]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831716]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10156,7 +10156,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8aa91fc671dfa40ee98784e48b254c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756407]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831605]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10410,7 +10410,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_0842c12f6093fc37c68af40a6e30301c]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756412]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831303]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -11445,7 +11445,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4541d58c2a43e272bd87909f3d3b743f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756424]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831800]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12200,7 +12200,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b296f8e04d0af9d4989a7574916a7491]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756434]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831616]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12935,7 +12935,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_020347487d2ed9faa97ae6b2a926ab78]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756443]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831818]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -13463,7 +13463,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1bc0d8a8d15edb8465de06d7ed7e6bac]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756450]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831622]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -14135,7 +14135,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_47bc5ecc1785178adefb08f4bf9ad089]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756458]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831749]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -17831,7 +17831,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_c3dd83710026d23674565c845f417b7f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756511]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831666]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -18957,7 +18957,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_e0352a7af4421505b2bd3f6b5e1bd8ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756524]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831584]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28247,7 +28247,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1696e896ef12b27f03224e0176872a30]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757357]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830773]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28375,7 +28375,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_06baac6da4e0b40cc71c2bcce16be064]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756631]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830932]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28609,7 +28609,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_59723b081a734c5c7819c68a423f4c0e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757455]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830898]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -31754,7 +31754,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_5fb127146ae1c174819d61393e18f3d3]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756695]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831427]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33125,7 +33125,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_83725416b1fdeb2a9a08f60c6a8389ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757463]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830908]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33710,7 +33710,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_30d3eb842f653f17b007f1c70525477b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756723]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831230]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -34158,7 +34158,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_d0d8b5fe8eb69ed53f5ada17cc5815b4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756728]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831208]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -35567,7 +35567,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ade33ab2bd0e3ca863126017ef4bc804]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757462]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830906]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -40551,7 +40551,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b869ed22677ba440d00e05ffe0e618f7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756811]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830952]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -41490,7 +41490,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7e80851ea45fe6f11c501467ec710ad6]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756822]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831733]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -42291,7 +42291,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4c9320317838c33cad386e7306df12e4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756832]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831206]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -43254,7 +43254,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8e864dd78f343fbb0a7abce23f570654]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756845]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831420]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -45397,7 +45397,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7fa446452d44e6ed71c53d02b4cb0c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756871]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831059]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -46099,7 +46099,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b738c0d3692c32ed67202af5376c4cc5]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658756880]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658831592]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -53227,7 +53227,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_deeeb03f0150a9942a6325919e366bba]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757426]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830870]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -56822,7 +56822,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_48ca52a81cc4cbb678559798920b94fe]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1658757028]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1658830942]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -58634,7 +58634,7 @@ Servite i vostri vol-au-vent Colorati!
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58756,7 +58756,7 @@ Lasciate raffreddare completamente prima di toglierlo dallo stampo e tagliarlo. 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58888,7 +58888,7 @@ Sfornate e lasciate intiepidire almeno 20 minuti prima di servire; potete presen
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59007,7 +59007,7 @@ Ecco pronto il <strong>Riso alla cantonese, </strong>colorato e saporito, servit
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59111,7 +59111,7 @@ Ingredienti per 3/4 persone
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59219,7 +59219,7 @@ Sciacquate il basilico e fatelo asciugare. Preparate ora il piatto alternando le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59335,7 +59335,7 @@ Servite i vostri pancakes vegani alla banana impilati uno sopra l'altro, con un 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59441,7 +59441,7 @@ Potete gustare la vostra pasta fredda tiepida oppure potete metterla in frigorif
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59548,7 +59548,7 @@ Cuocere i vostri biscotti in forno statico preriscaldato 180°C per 20 minuti; f
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59668,7 +59668,7 @@ Cuocete la torta ricotta e spinaci in forno statico preriscaldato a 180° per 35
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59796,7 +59796,7 @@ aggiungete l' acqua di cottura tenuta da parte per ammorbidire il condimento. Se
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59889,12 +59889,24 @@ La Pasta fredda speck noci e crema di robiola e’ pronta, potete servirla diret
 		<wp:meta_value><![CDATA[8887]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_crp_cache_ef192ffa8bbd493a72a4823c4fd6f1ab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;i:7586;i:1;i:8845;i:2;i:8867;i:3;i:887;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_crp_cache_expires_ef192ffa8bbd493a72a4823c4fd6f1ab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1658829854]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_total_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59987,7 +59999,108 @@ Distribuite sopra gli amaretti bagnati di caffè all'amaretto, partendo dall'est
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[460045]]></wp:meta_value>
+		<wp:meta_value><![CDATA[460066]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Pasta Fredda con Pesto alla Genovese, Mozzarelline e Pomodorini]]></title>
+		<link>/pasta-fredda-con-pesto-alla-genovese-mozzarelline-e-pomodorini/</link>
+		<pubDate>Tue, 05 Jul 2022 18:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<guid isPermaLink="false">/?p=8889</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="col-md-6">
+<div class="c-recipe__list2 c-typo1--body1 --theme-light3--text-links-interact-orange2">
+
+La pasta fredda con pesto, mozzarelline e pomodorini è un primo piatto leggero, gustoso, estivo e fresco, perfetto per un pranzo veloce a casa o sotto all'ombrellone, per un pic-nic o da portare in ufficio. Condita con pesto alla genovese, da fare in casa oppure da acquistare già pronto, pomodori, mozzarelline e foglie di basilico fresco, questo piatto semplice e colorato piace anche ai bambini e si prepara in pochissimo tempo.
+
+Ingredienti per 5/6 perone:
+<ul>
+ 	<li>500 gr di pasta meglio se di semola di grano duro</li>
+ 	<li>20 pomodori ciliegini</li>
+ 	<li>una confezione di mozzarelline</li>
+ 	<li>4-5 cucchiai di pesto (potete comprarlo già fatto, oppure prepararlo voi frullando 40 gr di foglie di Basilico, 100 gr di Olio extravergine d'oliva, 20 gr di Pinoli, 10 gr di Parmigiano Reggiano grattugiato, 10 gr di Pecorino grattugiato, sale)</li>
+</ul>
+</div>
+</div>
+<div class="col-md-6 col-md-f40">
+<div class="c-recipe__list2 c-typo1--body1 --theme-light3--text-links-interact-orange2">
+<ul>
+ 	<li>qualche foglia di basilico fresco</li>
+ 	<li>olio extravergine di oliva</li>
+ 	<li>sale</li>
+ 	<li>pepe</li>
+</ul>
+Per realizzare la pasta fredda al pesto con pomodorini e mozzarelline, per prima cosa ponete sul fuoco una pentola colma di acqua salata da portare al bollore che servirà per cuocere la pasta.
+
+Intanto preparate il pesto: lavate e asciugate bene le foglie di basilico, quindi trasferitele in un mixer e aggiungete i pinoli, il Parmigiano e il Pecorino grattugiati; salate e versate anche l’olio di oliva e frullate fino ad ottenere una salsa fluida e omogenea.
+
+Cuocete la pasta al dente e nel frattempo preparate gli altri ingredienti: tagliate le mozzarelline e i pomodorini e metteteli in una ciotola capiente, salate e pepate; scolate la pasta e conditela con il pesto, lasciatela intiepidire poi versatela nella ciotola con gli altri ingredienti. Completate il condimento con un cucchiaio di olio di oliva e le foglioline di basilico.
+
+<img class="alignnone size-full wp-image-8891" src="/wp-content/uploads/2022/07/photo_5917927500791527678_y.jpeg" alt="" width="1053" height="939" />
+
+<img class="alignnone size-full wp-image-8892" src="/wp-content/uploads/2022/07/photo_5917927500791527679_y.jpeg" alt="" width="1155" height="954" />
+
+<img class="alignnone size-full wp-image-8893" src="/wp-content/uploads/2022/07/photo_5917927500791527681_y.jpeg" alt="" width="1280" height="960" />
+<blockquote>La pasta fredda con pomodorini, pesto e mozzarella si presta a numerose varianti, una su tutte, la più golosa, prevede di sostituire i ciliegini con dei pomodorini gratinati in forno, mandorle tritate grossolanamente e timo.</blockquote>
+</div>
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8889</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-05 18:05:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-05 18:05:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-05 18:05:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-05 18:05:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[pasta-fredda-con-pesto-alla-genovese-mozzarelline-e-pomodorini]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="primi-piatti"><![CDATA[Primi Piatti]]></category>
+		<category domain="category" nicename="ricette-light-vegane"><![CDATA[Ricette Light e Vegane]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_revision-control]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:8:"defaults";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8894]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
