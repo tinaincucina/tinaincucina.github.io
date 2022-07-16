@@ -10,7 +10,7 @@
 <channel>
 	<title>Secondi piatti Archivi - Tina in Cucina</title>
 	<atom:link href="/category/secondi-piatti/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/secondi-piatti/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
 	<lastBuildDate>Fri, 08 Jul 2022 07:02:42 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
 	<title>Secondi piatti Archivi - Tina in Cucina</title>
-	<link>/</link>
+	<link>/category/secondi-piatti/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

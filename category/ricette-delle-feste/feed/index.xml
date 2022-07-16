@@ -10,7 +10,7 @@
 <channel>
 	<title>Ricette delle Feste Archivi - Tina in Cucina</title>
 	<atom:link href="/category/ricette-delle-feste/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/ricette-delle-feste/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
 	<lastBuildDate>Sun, 01 May 2022 10:57:05 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
 	<title>Ricette delle Feste Archivi - Tina in Cucina</title>
-	<link>/</link>
+	<link>/category/ricette-delle-feste/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -10,7 +10,7 @@
 <channel>
 	<title>Pane, Panini e Lievitati Archivi - Tina in Cucina</title>
 	<atom:link href="/category/pane-e-panini-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/pane-e-panini-2/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
 	<lastBuildDate>Sat, 26 Mar 2022 18:21:40 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
 	<title>Pane, Panini e Lievitati Archivi - Tina in Cucina</title>
-	<link>/</link>
+	<link>/category/pane-e-panini-2/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

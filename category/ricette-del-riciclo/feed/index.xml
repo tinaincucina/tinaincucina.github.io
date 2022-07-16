@@ -10,7 +10,7 @@
 <channel>
 	<title>Ricette del Riciclo Archivi - Tina in Cucina</title>
 	<atom:link href="/category/ricette-del-riciclo/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/ricette-del-riciclo/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
 	<lastBuildDate>Mon, 07 Dec 2020 16:12:07 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/01/logo100.png</url>
 	<title>Ricette del Riciclo Archivi - Tina in Cucina</title>
-	<link>/</link>
+	<link>/category/ricette-del-riciclo/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
