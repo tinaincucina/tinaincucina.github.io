@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<lastBuildDate>Sun, 04 Sep 2022 21:09:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Sep 2022 18:46:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,62 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Semifreddo alle Meringhe</title>
+		<link>/semifreddo-alle-meringhe/</link>
+					<comments>/semifreddo-alle-meringhe/#respond</comments>
+		
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 18:46:13 +0000</pubDate>
+				<category><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
+		<guid isPermaLink="false">/?p=8955</guid>
+
+					<description><![CDATA[<p>Il Semifreddo alle Meringhe è un dolce al cucchiaio cremoso, veloce e facilissimo da preparare; ideale per un dopo cena (quasi) improvvisato! Il semifreddo alla meringa si prepara in pochissime mosse e con pochissima fatica, con solo 3 ingredienti; basta solo assemblarlo il giorno prima per lasciarlo in freezer tutta la notte. Potete preparare le Meringhe, o utilizzare i Dolcetti di Meringa; in questo caso ci vuole un po&#8217; più di tempo, altrimenti basteranno 5 minuti! Preparate questo dolce fresco dopo pasto e semplicissimo da realizzare, potrete realizzarlo in anticipo per mantenerlo in freezer, pronto all’occorrenza. 500 ml di panna&#8230;</p>
+<p>L'articolo <a rel="nofollow" href="/semifreddo-alle-meringhe/">Semifreddo alle Meringhe</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="recipe-ingredients">
+<div class="recipe-ingredients-group">
+<div class="recipe-ingredients-content">
+<p>Il Semifreddo alle Meringhe è un dolce al cucchiaio cremoso, veloce e facilissimo da preparare; ideale per un dopo cena (quasi) improvvisato! Il semifreddo alla meringa si prepara in pochissime mosse e con pochissima fatica, con solo 3 ingredienti; basta solo assemblarlo il giorno prima per lasciarlo in freezer tutta la notte. Potete preparare le <a href="/meringhe-al-marsala/">Meringhe</a>, o utilizzare i <a href="/dolcetti-di-meringa-al-marsala/">Dolcetti di Meringa</a>; in questo caso ci vuole un po&#8217; più di tempo, altrimenti basteranno 5 minuti! Preparate questo dolce fresco dopo pasto e semplicissimo da realizzare, potrete realizzarlo in anticipo per mantenerlo in freezer, pronto all’occorrenza.</p>
+<div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">500 ml di panna fresca</li>
+</ul>
+</div>
+<ul>
+<li>
+<div class="recipe-ingredient-item"><span class="recipe-ingredient-qty"><span class="recipe-ingredient-number">100 gr di zucchero a velo</span></span></div>
+</li>
+<li>
+<div class="recipe-ingredient-item"><span class="recipe-ingredient-qty"><span class="recipe-ingredient-number">140</span><span class="recipe-ingredient-unit"> gr di </span></span><a href="/meringhe-al-marsala/"><span class="recipe-ingredient-text">meringhe</span></a></div>
+</li>
+<li>un bicchierino di vino Marsala</li>
+</ul>
+</div>
+</div>
+<div class="recipe-ingredients-group">
+<p>&nbsp;</p>
+<p>Mettete la panna in una ciotola insieme allo zucchero a velo e montate con le fruste elettriche fino a che sarà quasi perfettamente montata.</p>
+<p>Prendete le meringhe e rompetele con le mani sbriciolandole grossolanamente; mettetele nella ciotola insieme alla panna montata, aggiungete il Marsala e mescolate delicatamente con movimenti delicati dal basso verso l’alto in modo da non smontare eccessivamente la panna.</p>
+<p><img class="alignnone size-full wp-image-8958" src="/wp-content/uploads/2022/09/photo_5832516866315237750_y.jpg" alt="" width="1005" height="960" /></p>
+<p>Mettete il semifreddo alle meringhe in una tortiera apribile dal diametro di 18 cm, oppure in uno stampo da plum-cake, foderato sia sulla base che sui bordi da pellicola trasparente.</p>
+<p>Mettete il semifreddo alle meringhe in freezer per un&#8217;ora, meglio se tutta la notte.</p>
+<p><img class="alignnone size-full wp-image-8959" src="/wp-content/uploads/2022/09/photo_5832516866315237749_y.jpg" alt="" width="902" height="914" /></p>
+<p>Quando il tempo di riposo sarà terminato riprendete il semifreddo alle meringhe, lasciate riposare a temperatura ambiente per 20 minuti, tagliate a fette e servite, al naturale, con meringhe sbriciolate o con una spolverata di cacao amaro.</p>
+<p>&nbsp;</p>
+</div>
+<div class="wprm-recipe-instruction-group">
+<p>&nbsp;</p>
+</div>
+</div>
+<p>L'articolo <a rel="nofollow" href="/semifreddo-alle-meringhe/">Semifreddo alle Meringhe</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/semifreddo-alle-meringhe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Dolcetti di Meringa al Marsala</title>
 		<link>/dolcetti-di-meringa-al-marsala/</link>
 					<comments>/dolcetti-di-meringa-al-marsala/#respond</comments>
@@ -533,48 +589,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/pasta-fredda-ai-due-formaggi-con-speck-e-noci/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Torta Furba con Pasta Frolla</title>
-		<link>/torta-furba-con-pasta-frolla/</link>
-					<comments>/torta-furba-con-pasta-frolla/#respond</comments>
-		
-		<dc:creator><![CDATA[Tina]]></dc:creator>
-		<pubDate>Sat, 25 Jun 2022 13:34:42 +0000</pubDate>
-				<category><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
-		<guid isPermaLink="false">/?p=8876</guid>
-
-					<description><![CDATA[<p>Questa torta è davvero golosa, facile, veloce, davvero furbissima! Senza accendere i fornelli, pronta in 5 minuti, con la base di pastafrolla già pronta alla Nutella con mascarpone e amaretti; questo dolce è davvero perfetto per chi ha ospiti dell&#8217;ultimo minuto, per chi non ha molta dimestichezza in cucina e per chi non ha nessuna intenzione di perdere troppo tempo per preparare un dolce, ma vuole stupire i propri ospiti! una confezione di Pastafrolla da 350 gr (quella che si trova nel reparto dei prodotti dolciari da forno, già pronta, non quella del banco frigo! si trova già confezionata) 300&#8230;</p>
-<p>L'articolo <a rel="nofollow" href="/torta-furba-con-pasta-frolla/">Torta Furba con Pasta Frolla</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Questa torta è davvero golosa, facile, veloce, davvero furbissima! Senza accendere i fornelli, pronta in 5 minuti, con la base di pastafrolla già pronta alla Nutella con mascarpone e amaretti; questo dolce è davvero perfetto per chi ha ospiti dell&#8217;ultimo minuto, per chi non ha molta dimestichezza in cucina e per chi non ha nessuna intenzione di perdere troppo tempo per preparare un dolce, ma vuole stupire i propri ospiti!</p>
-<ul>
-<li>una confezione di Pastafrolla da 350 gr (quella che si trova nel reparto dei prodotti dolciari da forno, già pronta, non quella del banco frigo! si trova già confezionata)</li>
-<li>300 gr di mascarpone</li>
-<li>caffè della moka</li>
-<li>un cucchiaio di Amaretto di Saronno</li>
-<li>una confezione di amaretti</li>
-<li>3 cucchiai di Nutella</li>
-<li>cacao amaro</li>
-</ul>
-<p>Prendete la pastafrolla pronta e spennellate tutta la superficie con il caffè mescolato con il cucchiaio di Amaretto di Saronno.</p>
-<p>
-<a href='/torta-furba-con-pasta-frolla/photo5888480848527865734/#main'><img width="100" height="96" src="/wp-content/uploads/2022/06/photo5888480848527865734.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/torta-furba-con-pasta-frolla/photo5888480848527865733/#main'><img width="128" height="96" src="/wp-content/uploads/2022/06/photo5888480848527865733.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-</p>
-<p>M<span class="tooltip_termine tooltip_117" title="" data-original-title="Legare tra loro una o più sostanze fino a formare un composto omogeneo.">escolare</span> tra loro mascarpone e Nutella in una ciotola con una frusta fino ad ottenere una crema omogenea; distribuite la crema su tutta la superficie della torta.</p>
-<p><img class="alignnone size-full wp-image-8880" src="/wp-content/uploads/2022/06/photo5888480848527865732.jpg" alt="" width="954" height="957" /></p>
-<p>Distribuite sopra gli amaretti bagnati di caffè all&#8217;amaretto, partendo dall&#8217;esterno. Spolverizzate di cacao amaro e conservate in frigorifero fino al momento di servire.</p>
-<p><img class="alignnone size-full wp-image-8881" src="/wp-content/uploads/2022/06/photo5888480848527865731.jpg" alt="" width="963" height="939" /></p>
-<p><img class="alignnone size-full wp-image-8882" src="/wp-content/uploads/2022/06/photo5888480848527865727.jpg" alt="" width="1232" height="938" /></p>
-<p><img class="alignnone size-full wp-image-8883" src="/wp-content/uploads/2022/06/photo5888480848527865725.jpg" alt="" width="1280" height="960" /></p>
-<p>L'articolo <a rel="nofollow" href="/torta-furba-con-pasta-frolla/">Torta Furba con Pasta Frolla</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/torta-furba-con-pasta-frolla/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

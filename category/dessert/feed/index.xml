@@ -12,7 +12,7 @@
 	<atom:link href="/category/dessert/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/dessert/</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<lastBuildDate>Sun, 04 Sep 2022 21:09:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Sep 2022 18:46:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,62 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Semifreddo alle Meringhe</title>
+		<link>/semifreddo-alle-meringhe/</link>
+					<comments>/semifreddo-alle-meringhe/#respond</comments>
+		
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 18:46:13 +0000</pubDate>
+				<category><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
+		<guid isPermaLink="false">/?p=8955</guid>
+
+					<description><![CDATA[<p>Il Semifreddo alle Meringhe è un dolce al cucchiaio cremoso, veloce e facilissimo da preparare; ideale per un dopo cena (quasi) improvvisato! Il semifreddo alla meringa si prepara in pochissime mosse e con pochissima fatica, con solo 3 ingredienti; basta solo assemblarlo il giorno prima per lasciarlo in freezer tutta la notte. Potete preparare le Meringhe, o utilizzare i Dolcetti di Meringa; in questo caso ci vuole un po&#8217; più di tempo, altrimenti basteranno 5 minuti! Preparate questo dolce fresco dopo pasto e semplicissimo da realizzare, potrete realizzarlo in anticipo per mantenerlo in freezer, pronto all’occorrenza. 500 ml di panna&#8230;</p>
+<p>L'articolo <a rel="nofollow" href="/semifreddo-alle-meringhe/">Semifreddo alle Meringhe</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="recipe-ingredients">
+<div class="recipe-ingredients-group">
+<div class="recipe-ingredients-content">
+<p>Il Semifreddo alle Meringhe è un dolce al cucchiaio cremoso, veloce e facilissimo da preparare; ideale per un dopo cena (quasi) improvvisato! Il semifreddo alla meringa si prepara in pochissime mosse e con pochissima fatica, con solo 3 ingredienti; basta solo assemblarlo il giorno prima per lasciarlo in freezer tutta la notte. Potete preparare le <a href="/meringhe-al-marsala/">Meringhe</a>, o utilizzare i <a href="/dolcetti-di-meringa-al-marsala/">Dolcetti di Meringa</a>; in questo caso ci vuole un po&#8217; più di tempo, altrimenti basteranno 5 minuti! Preparate questo dolce fresco dopo pasto e semplicissimo da realizzare, potrete realizzarlo in anticipo per mantenerlo in freezer, pronto all’occorrenza.</p>
+<div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">500 ml di panna fresca</li>
+</ul>
+</div>
+<ul>
+<li>
+<div class="recipe-ingredient-item"><span class="recipe-ingredient-qty"><span class="recipe-ingredient-number">100 gr di zucchero a velo</span></span></div>
+</li>
+<li>
+<div class="recipe-ingredient-item"><span class="recipe-ingredient-qty"><span class="recipe-ingredient-number">140</span><span class="recipe-ingredient-unit"> gr di </span></span><a href="/meringhe-al-marsala/"><span class="recipe-ingredient-text">meringhe</span></a></div>
+</li>
+<li>un bicchierino di vino Marsala</li>
+</ul>
+</div>
+</div>
+<div class="recipe-ingredients-group">
+<p>&nbsp;</p>
+<p>Mettete la panna in una ciotola insieme allo zucchero a velo e montate con le fruste elettriche fino a che sarà quasi perfettamente montata.</p>
+<p>Prendete le meringhe e rompetele con le mani sbriciolandole grossolanamente; mettetele nella ciotola insieme alla panna montata, aggiungete il Marsala e mescolate delicatamente con movimenti delicati dal basso verso l’alto in modo da non smontare eccessivamente la panna.</p>
+<p><img class="alignnone size-full wp-image-8958" src="/wp-content/uploads/2022/09/photo_5832516866315237750_y.jpg" alt="" width="1005" height="960" /></p>
+<p>Mettete il semifreddo alle meringhe in una tortiera apribile dal diametro di 18 cm, oppure in uno stampo da plum-cake, foderato sia sulla base che sui bordi da pellicola trasparente.</p>
+<p>Mettete il semifreddo alle meringhe in freezer per un&#8217;ora, meglio se tutta la notte.</p>
+<p><img class="alignnone size-full wp-image-8959" src="/wp-content/uploads/2022/09/photo_5832516866315237749_y.jpg" alt="" width="902" height="914" /></p>
+<p>Quando il tempo di riposo sarà terminato riprendete il semifreddo alle meringhe, lasciate riposare a temperatura ambiente per 20 minuti, tagliate a fette e servite, al naturale, con meringhe sbriciolate o con una spolverata di cacao amaro.</p>
+<p>&nbsp;</p>
+</div>
+<div class="wprm-recipe-instruction-group">
+<p>&nbsp;</p>
+</div>
+</div>
+<p>L'articolo <a rel="nofollow" href="/semifreddo-alle-meringhe/">Semifreddo alle Meringhe</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/semifreddo-alle-meringhe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Dolcetti di Meringa al Marsala</title>
 		<link>/dolcetti-di-meringa-al-marsala/</link>
 					<comments>/dolcetti-di-meringa-al-marsala/#respond</comments>
@@ -541,61 +597,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/ciambella-vegana-di-carote/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Brownies Vegano con Avocado, Banane e Cioccolato Fondente</title>
-		<link>/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/</link>
-					<comments>/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/#respond</comments>
-		
-		<dc:creator><![CDATA[Tina]]></dc:creator>
-		<pubDate>Sun, 08 May 2022 07:58:07 +0000</pubDate>
-				<category><![CDATA[Ricette Light e Vegane]]></category>
-		<category><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
-		<guid isPermaLink="false">/?p=8791</guid>
-
-					<description><![CDATA[<p>I miei brownies vegani all&#8217;avocado, banane e cioccolato sono dei dolcetti davvero strepitosi, golosi, che non hanno nulla da invidiare ai classici brownies! Sono preparati con ingredienti semplici come banana, burro di arachidi, avocado, datteri e sciroppo d&#8217;acero; il tutto mixato con cacao amaro e gocce di cioccolato! Sono dolci, ma pieni di nutrienti sani e genuini, senza uova, senza latte, senza burro! La consistenza è incredibile: ogni morso si scioglie in bocca. Questi brownies sono velocissimi da preparare, basta frullare tutti gli ingredienti e il gioco è fatto! Se volete realizzare una versione senza glutine, al posto della farina&#8230;</p>
-<p>L'articolo <a rel="nofollow" href="/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/">Brownies Vegano con Avocado, Banane e Cioccolato Fondente</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>I miei brownies vegani all&#8217;avocado, banane e cioccolato sono dei dolcetti davvero strepitosi, golosi, che non hanno nulla da invidiare ai classici brownies! Sono preparati con ingredienti semplici come banana, burro di arachidi, avocado, datteri e sciroppo d&#8217;acero; il tutto mixato con cacao amaro e gocce di cioccolato! Sono dolci, ma pieni di nutrienti sani e genuini, senza uova, senza latte, senza burro! La consistenza è incredibile: ogni morso si scioglie in bocca. Questi brownies sono velocissimi da preparare, basta frullare tutti gli ingredienti e il gioco è fatto!</p>
-<blockquote><p>Se volete realizzare una versione senza glutine, al posto della farina 00 potete utilizzare metà farina di mandorle e metà farina di riso o di mais!</p></blockquote>
-<ul>
-<li>100 gr di gocce di cioccolato fondente</li>
-<li>1 avocado grande, maturo</li>
-<li>2 banane mature</li>
-<li>3 datteri snocciolati</li>
-<li>60 gr di farina 00 (in alternativa 30 gr di farina integrale e 30 gr di farina di mandorle)</li>
-<li>20 gr di cacao in polvere</li>
-<li>1 cucchiaino di lievito in polvere per dolci</li>
-<li><span class="wprm-recipe-ingredient-name">20 gr di sciroppo d&#8217;acero (o di agave, o di datteri) più q.b. per servire<br />
-</span></li>
-<li>30 gr di burro di arachidi (in alternativa tritate le arachidi tostate con un cucchiaio di olio di semi)</li>
-<li>30 gr di zucchero di canna</li>
-<li>mezzo cucchiaino di sale</li>
-<li>5/6 noci, o due cucchiai di nocciole a scelta</li>
-</ul>
-<p>Foderate una teglia quadrata o rettangolare con carta da forno. Frullate insieme l&#8217;avocado, le banane e i datteri nel frullatore e sbattere il tutto fino a formare una massa omogenea.</p>
-<p><img class="alignnone size-full wp-image-8794" src="/wp-content/uploads/2022/05/photo6034863710616532807.jpg" alt="" width="1032" height="960" /></p>
-<p>Trasferite tutto in una ciotola capiente, aggiungete la farina, il cacao, lo zucchero, il sale, il burro di arachidi, lo sciroppo d&#8217;acero o di agave o di datteri (tutti ingredienti che trovate nei negozi biologici!) e il lievito e mescolate bene; in alternativa potete continuare ad utilizzare il frullatore per un minuto.</p>
-<p><img class="alignnone size-full wp-image-8796" src="/wp-content/uploads/2022/05/photo6034863710616532809.jpg" alt="" width="1038" height="945" /></p>
-<p>Infine aggiungete le gocce di cioccolato e le noci (a scelta) e mescolate con una spatola.</p>
-<p><img class="alignnone size-full wp-image-8795" src="/wp-content/uploads/2022/05/photo6034863710616532813.jpg" alt="" width="1280" height="960" /></p>
-<p>Versate il composto nello stampo e infornate per 45 minuti in forno preriscaldato a 180°, finché la parte superiore non inizia a dorarsi e l&#8217;interno è cotto (potete infilzarlo con uno stuzzicadenti, dovrebbe uscire bagnato, ma senza pastella che cola).</p>
-<p>
-<a href='/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/photo6034863710616532815/#main'><img width="118" height="96" src="/wp-content/uploads/2022/05/photo6034863710616532815.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/photo6034863710616532808/#main'><img width="95" height="96" src="/wp-content/uploads/2022/05/photo6034863710616532808.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-</p>
-<p>Lasciate raffreddare completamente prima di toglierlo dallo stampo e tagliarlo. Potete servire il Brownies vegano con dello sciroppo d&#8217;acero o di datteri!</p>
-<p><img class="alignnone size-full wp-image-8799" src="/wp-content/uploads/2022/05/photo6034863710616532806.jpg" alt="" width="1280" height="960" /></p>
-<div class="wprm-recipe-instruction-group">
-<p>&nbsp;</p>
-</div>
-<p>L'articolo <a rel="nofollow" href="/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/">Brownies Vegano con Avocado, Banane e Cioccolato Fondente</a> proviene da <a rel="nofollow" href="/">Tina in Cucina</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/brownies-vegano-con-avocado-banane-e-cioccolato-fondente/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
