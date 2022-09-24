@@ -1,0 +1,64 @@
+/**************************\
+  Required Styles
+\**************************/
+
+.wp-sls-search-modal[aria-hidden="true"] {
+  display: none;
+}
+
+/**************************\
+  Basic Modal Styles
+\**************************/
+
+.wp-sls-search-modal {
+  z-index: 9999;
+}
+
+.wp-sls-search-modal__overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.wp-sls-search-modal__container {
+  background-color: #fff;
+  padding: 30px 50px;
+  width: 80vw;
+  height: 80vh;
+  overflow: scroll;
+}
+
+.wp-sls-search-modal__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.wp-sls-search-modal__results {
+  padding: 30px 0;
+}
+
+.wp-sls-search-modal__results > article {
+  padding-bottom: 2em;
+}
+
+.wp-sls-search-modal__results .entry-summary {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.wp-sls-search-modal__header a:before {
+  content: "\2715";
+}
