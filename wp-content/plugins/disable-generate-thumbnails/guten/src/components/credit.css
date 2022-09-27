@@ -1,0 +1,27 @@
+.span1Style {
+	font-weight: bold;
+}
+.aStyle {
+	text-decoration: none;
+}
+.boxStyle {
+	width: 250px;
+	height: 180px;
+	margin: 5px;
+	padding: 5px;
+	border: #CCC 2px solid;
+}
+.divStyle {
+	text-align: right;
+	margin: 5px;
+	padding: 5px;
+}
+.span2Style {
+	padding: 3px;
+	color: #ffffff;
+	background-color: #008000;
+}
+.buttonStyle {
+	margin: 5px;
+	padding: 5px;
+}

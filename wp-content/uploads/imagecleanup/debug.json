@@ -1,0 +1,46 @@
+[0.0455] Info: WP_Query results written to log
+[0.0004] Registered sizes: ["thumbnail","medium","medium_large","large","1536x1536","2048x2048","allium-featured","allium-featured-single","crp_thumbnail","full"]
+[0.0004] Meta indexed so far: 1 / 2509
+[0.0017] Sample meta:
+{"width":1280,"height":960,"file":"2021\/01\/photo6017091217550062743.jpg","sizes":{"medium":{"file":"photo6017091217550062743-300x225.jpg","width":300,"height":225,"mime-type":"image\/jpeg"},"large":{"file":"photo6017091217550062743-1024x768.jpg","width":1024,"height":768,"mime-type":"image\/jpeg"},"thumbnail":{"file":"photo6017091217550062743-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium_large":{"file":"photo6017091217550062743-768x576.jpg","width":768,"height":576,"mime-type":"image\/jpeg"},"allium-featured":{"file":"photo6017091217550062743-700x525.jpg","width":700,"height":525,"mime-type":"image\/jpeg"},"allium-featured-single":{"file":"photo6017091217550062743-769x577.jpg","width":769,"height":577,"mime-type":"image\/jpeg"},"crp_thumbnail":{"file":"photo6017091217550062743-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
+[13.5104] Meta indexed so far: 2509 / 2509
+[0.0002] Meta indexed so far: 101 / 2509
+[0.0001] Meta indexed so far: 201 / 2509
+[0.0001] Meta indexed so far: 301 / 2509
+[0.0003] Meta indexed so far: 401 / 2509
+[0.0001] Meta indexed so far: 501 / 2509
+[0.0001] Meta indexed so far: 601 / 2509
+[0.0001] Meta indexed so far: 701 / 2509
+[0.0001] Meta indexed so far: 801 / 2509
+[0.0001] Meta indexed so far: 901 / 2509
+[0.0001] Meta indexed so far: 1001 / 2509
+[0.0001] Meta indexed so far: 1101 / 2509
+[0.0001] Meta indexed so far: 1201 / 2509
+[0.0001] Meta indexed so far: 1301 / 2509
+[0.0001] Meta indexed so far: 1401 / 2509
+[0.0001] Meta indexed so far: 1501 / 2509
+[0.0001] Meta indexed so far: 1601 / 2509
+[0.0001] Meta indexed so far: 1701 / 2509
+[0.0001] Meta indexed so far: 1801 / 2509
+[0.0004] Meta indexed so far: 1901 / 2509
+[0.0001] Meta indexed so far: 2001 / 2509
+[0.0001] Meta indexed so far: 2101 / 2509
+[0.0001] Meta indexed so far: 2201 / 2509
+[0.0001] Meta indexed so far: 2301 / 2509
+[0.0001] Meta indexed so far: 2401 / 2509
+[0.0001] Meta indexed so far: 2501 / 2509
+[0.0010] Meta indexed so far: 2509 / 2509
+[0.0216] Info: Valid and Invalid meta results written to log
+[0.1721] Info: Loaded attachments to memory [42 mb]
+[0.3914] Info: 15189 Images found [52 mb]
+[2.1835] Info: 100 Invalid images found [54 mb]
+[2.3730] Info: Retrieved attachment images from DB [50 mb]
+[2.6761] Info: Backup meta results written to log [56 mb]
+[0.0003] Posts checked for used images 1/313
+[0.0004] Posts checked for used images 101/313
+[0.0003] Posts checked for used images 201/313
+[0.0003] Posts checked for used images 301/313
+[0.0222] Info: Invalid post image meta results written to log
+[0.1670] Info: Invalid script image meta results written to log
+[7.5272] Info: Invalid referenced image meta results written to log
+[7.5300] Info: Unreferenced image file results written to log
