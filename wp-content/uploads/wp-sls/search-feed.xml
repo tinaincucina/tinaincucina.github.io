@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-27 13:55" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-01 12:50" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tina in Cucina</title>
 	<link>https://www.tinaincucina.com</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<pubDate>Tue, 27 Sep 2022 13:55:44 +0000</pubDate>
+	<pubDate>Sat, 01 Oct 2022 12:50:49 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.tinaincucina.com</wp:base_site_url>
@@ -6867,7 +6867,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_edc2e30e5b25f32c0a1d804c20ab4d6b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878397]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886810]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -7222,7 +7222,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_065629906cea353d445f80e960151b5d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878354]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886788]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -8374,7 +8374,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_2aa2a407159d9cdb358e72fd3211b8fd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878649]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886945]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -9401,7 +9401,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_678e80f50c2ad2eade071ff9c9dc93e9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878496]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886858]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10148,7 +10148,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8aa91fc671dfa40ee98784e48b254c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878431]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886826]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10402,7 +10402,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_0842c12f6093fc37c68af40a6e30301c]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878571]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886901]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -11437,7 +11437,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4541d58c2a43e272bd87909f3d3b743f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878330]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886779]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12192,7 +12192,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b296f8e04d0af9d4989a7574916a7491]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878193]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886682]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12927,7 +12927,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_020347487d2ed9faa97ae6b2a926ab78]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878668]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886955]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -13455,7 +13455,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1bc0d8a8d15edb8465de06d7ed7e6bac]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878397]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886810]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -14127,7 +14127,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_47bc5ecc1785178adefb08f4bf9ad089]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878582]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886906]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -17809,7 +17809,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_c3dd83710026d23674565c845f417b7f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878855]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666887070]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -18935,7 +18935,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_e0352a7af4421505b2bd3f6b5e1bd8ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878624]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886927]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28225,7 +28225,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1696e896ef12b27f03224e0176872a30]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878356]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886789]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28353,7 +28353,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_06baac6da4e0b40cc71c2bcce16be064]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878422]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886822]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28587,7 +28587,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_59723b081a734c5c7819c68a423f4c0e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878665]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886954]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -31732,7 +31732,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_5fb127146ae1c174819d61393e18f3d3]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878342]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886784]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33103,7 +33103,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_83725416b1fdeb2a9a08f60c6a8389ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878583]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886906]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33688,7 +33688,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_30d3eb842f653f17b007f1c70525477b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878256]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886712]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -34136,7 +34136,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_d0d8b5fe8eb69ed53f5ada17cc5815b4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878439]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886830]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -35545,7 +35545,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ade33ab2bd0e3ca863126017ef4bc804]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878623]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886926]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -40529,7 +40529,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b869ed22677ba440d00e05ffe0e618f7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878774]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666887011]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -41468,7 +41468,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7e80851ea45fe6f11c501467ec710ad6]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878762]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666887006]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -41623,7 +41623,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[462394]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42269,7 +42269,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4c9320317838c33cad386e7306df12e4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878441]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886831]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -43232,7 +43232,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8e864dd78f343fbb0a7abce23f570654]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878669]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886956]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -45375,7 +45375,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7fa446452d44e6ed71c53d02b4cb0c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878689]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886967]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -46077,7 +46077,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b738c0d3692c32ed67202af5376c4cc5]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878250]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886710]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -53205,7 +53205,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_deeeb03f0150a9942a6325919e366bba]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878497]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886859]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -56800,7 +56800,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_48ca52a81cc4cbb678559798920b94fe]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878329]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1666886778]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -61037,7 +61037,7 @@ Quando il tempo di riposo sarà terminato riprendete il semifreddo alle meringhe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[462304]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61182,7 +61182,7 @@ Infornate in forno statoti preriscaldato a 180° per 30 minuti, fino a doratura.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[462304]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61304,7 +61304,107 @@ Sfornate il pane con uvetta e lasciatelo raffreddare prima di servire.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[462304]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fudge al Caramello]]></title>
+		<link>https://www.tinaincucina.com/fudge-al-caramello/</link>
+		<pubDate>Sat, 01 Oct 2022 12:50:48 +0000</pubDate>
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<guid isPermaLink="false">https://www.tinaincucina.com/?p=8969</guid>
+		<description></description>
+		<content:encoded><![CDATA[il Fudge al Caramello è un dolcetto di origini anglosassoni, facilissimo e velocissimo da preparare, davvero goloso, da fine pasto o da mangiare per merenda o colazione in compagnia di una tazza da tè; oppure da regalare agli amici o parenti per Natale o San Valentino. Famosi anche in America, questi golosi cubetti possono essere un’ottima idea regalo: confezionati in barattoli di vetro con etichette personalizzate, oppure avvolti in carta colorata o in scatole o barattoli di latta e decorati!
+
+Dosi per circa 30 piccole porzioni
+<ul>
+ 	<li>450 gr di latte condensato</li>
+ 	<li>100 ml di latte intero</li>
+ 	<li>500 gr di zucchero di canna</li>
+ 	<li>150 g di burro a pezzi</li>
+ 	<li>estratto di vaniglia, o bacca o vanillina</li>
+</ul>
+In una casseruola dal fondo spesso mettete tutti gli ingredienti per il Fudge, accendete il fuoco basso e iniziate a mescolare con un cucchiaio di legno, finché il burro non si è sciolto completamente.
+
+<img class="alignnone size-full wp-image-9005" src="https://www.tinaincucina.com/wp-content/uploads/2022/09/photo_5890902591607519645_y.jpg" alt="" width="1280" height="960" />
+
+Alzate il fuoco e continuate a cuocere, mescolando continuamente per 20 minuti; a questo punto il composto si è miscelato ed addensato assumendo un colore più lucido, quindi spegnete il fuoco.
+
+<img class="alignnone size-full wp-image-9006" src="https://www.tinaincucina.com/wp-content/uploads/2022/09/photo_5890902591607519643_y.jpg" alt="" width="1280" height="960" />
+
+Fate raffreddare il composto per 10 minuti continuando a mescolare con il cucchiaio di legno, poi versatelo in una tortiera quadrata, rivestita con carta da forno, e ponete in freezer per almeno 6 ore.
+
+<img class="alignnone size-full wp-image-9007" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519644_y.jpg" alt="" width="974" height="860" />
+
+<img class="alignnone size-full wp-image-9008" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519640_y.jpg" alt="" width="1053" height="954" />
+
+Infine tagliate il dessert in golosi cubetti e servite a temperatura ambiente o conservate in frigorifero.
+
+<img class="alignnone size-full wp-image-9010" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519642_y.jpg" alt="" width="1280" height="960" />
+
+<img class="alignnone size-full wp-image-9009" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519641_y.jpg" alt="" width="1280" height="960" />
+<blockquote>Per un perfetto fudge la miscela dovrebbe raggiungere la temperatura di 112-115°, se non avete il termometro da cucina fate cosi: lasciate cadere qualche goccia di miscela su un bicchiere di acqua fredda: se prendendola tra le dita è possibile rotolarla, allora significa che il composto è sciolto al punto giusto. Se invece fosse ancora troppo liquido, va rimesso a cuocere per altri cinque minuti per poi riprovare di nuovo con il trucchetto dell'acqua!
+
+&nbsp;
+
+Preparate il Fudge durante le feste di Natale o Pasqua e confezionate i cubotti per un regalo davvero originale per i vostri amici e parenti!</blockquote>
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8969</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-01 12:50:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-01 12:50:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-01 12:50:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-01 12:50:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[fudge-al-caramello]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="ricette-etniche"><![CDATA[Ricette Etniche e Internazionali]]></category>
+		<category domain="category" nicename="dessert"><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_revision-control]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:8:"defaults";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9011]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61414,12 +61514,12 @@ Versate il composto sopra la cheesecake già rassodata, riponete in frigorifero 
 		<wp:meta_value><![CDATA[8991]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crp_cache_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{i:0;i:502;i:1;i:546;i:2;i:5485;i:3;i:6265;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_crp_cache_expires_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666878962]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crp_cache_expires_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666767481]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_crp_cache_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;i:502;i:1;i:546;i:2;i:5485;i:3;i:6265;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -61431,15 +61531,120 @@ Versate il composto sopra la cheesecake già rassodata, riponete in frigorifero 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[462304]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+							</item>
+					<item>
+		<title><![CDATA[Torta Morbida di Mele e Pere (senza uova)]]></title>
+		<link>https://www.tinaincucina.com/torta-morbida-di-mele-e-pere-senza-uova/</link>
+		<pubDate>Sat, 01 Oct 2022 12:31:20 +0000</pubDate>
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<guid isPermaLink="false">https://www.tinaincucina.com/?p=8996</guid>
+		<description></description>
+		<content:encoded><![CDATA[La Torta di pere e mele è un dolce soffice, goloso e perfetto per la colazione, merenda in casa o un tè con le amiche; facilissimo e con pochi ingredienti, ideale per chi non può mangiare uova o ha deciso di diminuirne il consumo. Con i suoi ingredienti e profumi ricorda i sapori d' Autunno, e piace proprio a tutti! Se amate i dolci con le mele provate anche le altre mie ricette: <a href="https://www.tinaincucina.com/torta-di-mele-e-ricotta/">torta di mele e ricotta</a>, la <a href="https://www.tinaincucina.com/crostata-di-mele/">crostata</a> e il <a href="https://www.tinaincucina.com/torta-sbriciolata-crumble-di-mele/">crumble di mele!</a>
+
+Dosi per una tortiera da 22-24 cm di diametro
+<ul>
+ 	<li><span class="ingredient">2 mele</span></li>
+ 	<li>2 pere</li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="230" data-um="ml">200</span> ml</span> <span class="ingredient">latte vaccino (o vegetale di riso, soia, avena, cocco, mandorla<em>)</em></span></li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="60" data-um="g">60</span> g</span> <span class="ingredient">fecola di patate</span></li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="200" data-um="g">200</span> g</span> <span class="ingredient">farina 00
+</span></li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="80" data-um="ml">80 gr di burro fuso (che potete sostituire con </span></span><span class="ingredient">olio di semi)</span></li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="120" data-um="g">120</span> gr di</span> <span class="ingredient">zucchero </span></li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="1" data-um="">succo di mezzo limone</span></span></li>
+ 	<li>60 ml di succo di mela</li>
+ 	<li><span class="quantity"><span class="quantity-num" data-original="0.5" data-um="g">una bustina di vanillina</span></span></li>
+ 	<li>una bustina di lievito per dolci</li>
+ 	<li>cannella q.b.</li>
+ 	<li>zucchero a velo q.b.</li>
+</ul>
+Per preparare la torta di mele e pere senza uova come prima cosa sbucciate le mele e le pere e tagliatele a dadini, trasferiteli in una ciotola, unite il succo di 1/2 limone <span class="num-step">e il succo di mela e mescolate bene.
+</span>
+
+<img class="alignnone size-full wp-image-8997" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519621_y.jpg" alt="" width="882" height="873" />
+
+Passate all'impasto: in una ciotola versate gli ingredienti liquidi quindi il latte e il burro fuso, poi unite quelli secchi quindi le due farine, lievito, vanillina e cannella e mescolate bene con un cucchiaio, in modo da ottenere un composto liscio e privo di grumi.
+
+<img class="alignnone size-full wp-image-8998" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519622_y.jpg" alt="" width="993" height="954" />
+
+Riprendete i cubetti di frutta, versatele nell'impasto insieme al succo e mescolate bene.
+
+Trasferite l'impasto all'interno di uno stampo da 24 cm rivestito con carta forno e cuocete il dolce in forno statico preriscaldato a 180° nel ripiano medio basso per 40 minuti. Verificate la cottura con uno stecchino, altrimenti prolungatela sino a che non risulterà asciutto.
+
+<img class="alignnone size-medium wp-image-9001" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519624_y.jpg" alt="" width="1020" height="960" />
+
+<img class="alignnone size-full wp-image-9002" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519625_y.jpg" alt="" width="1089" height="951" />
+
+Sfornate la torta, lasciatela raffreddare all'interno dello stampo, prima di sformarla e servirla con una spolverata di zucchero a velo e cannella!
+
+<img class="alignnone size-full wp-image-9003" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519623_y.jpg" alt="" width="1280" height="960" />
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8996</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-01 12:31:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-01 12:31:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-01 12:31:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-01 12:31:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[torta-morbida-di-mele-e-pere-senza-uova]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="dessert"><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_revision-control]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:8:"defaults";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9004]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_417fbcad663727c14ce9d74d9c7af02a]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;i:4363;i:1;i:8114;i:2;i:5240;i:3;i:5485;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_expires_417fbcad663727c14ce9d74d9c7af02a]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667219499]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_total_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[462396]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

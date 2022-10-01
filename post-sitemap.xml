@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tinaincucina.com/</loc>
-		<lastmod>2022-09-27T13:55:43+00:00</lastmod>
+		<lastmod>2022-10-01T12:50:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tinaincucina.com/straccetti-di-manzo-con-pannocchia-e-broccoli/</loc>
@@ -12006,6 +12006,53 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/09/photo_5874987461443173009_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/torta-morbida-di-mele-e-pere-senza-uova/</loc>
+		<lastmod>2022-10-01T12:31:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519627_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519621_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519622_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519624_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519625_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519623_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/fudge-al-caramello/</loc>
+		<lastmod>2022-10-01T12:50:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519639_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/09/photo_5890902591607519645_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/09/photo_5890902591607519643_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519644_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519640_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519642_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5890902591607519641_y.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
