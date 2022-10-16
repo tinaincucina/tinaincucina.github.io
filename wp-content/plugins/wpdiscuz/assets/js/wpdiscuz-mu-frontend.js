@@ -98,8 +98,8 @@ jQuery(document).ready(function ($) {
             wpdiscuzAjaxObj.getAjaxObj(true, true, data)
                     .done(function (r) {
                         if (r.success) {
-                            var parent = $('.wmu-attachment-' + attachmentId).parents('.wmu-comment-attachments');
-                            $('.wmu-attachment-' + attachmentId).remove();
+                            var parent = btn.parents('.wmu-comment-attachments');
+                            btn.parent('.wmu-attachment').remove();
                             if (!$('.wmu-attached-images *', parent).length) {
                                 $('.wmu-attached-images', parent).remove();
                             }

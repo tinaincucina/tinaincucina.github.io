@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tinaincucina.com/</loc>
-		<lastmod>2022-10-10T10:14:40+00:00</lastmod>
+		<lastmod>2022-10-16T15:57:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tinaincucina.com/straccetti-di-manzo-con-pannocchia-e-broccoli/</loc>
@@ -12094,6 +12094,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5915957794429843802_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/peara-di-verona/</loc>
+		<lastmod>2022-10-16T15:57:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779287_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779281_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779283_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779282_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779286_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779288_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5935937595743779289_y.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

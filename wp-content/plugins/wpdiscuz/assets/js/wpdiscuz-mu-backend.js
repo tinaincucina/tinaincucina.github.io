@@ -29,7 +29,7 @@ jQuery(document).ready(function ($) {
             var ajax = wmuGetAjaxObj(data);
             ajax.done(function (r) {
                 if (r.success) {
-                    $('.wmu-attachment-' + attachmentId).remove();
+                    clicked.parent('.wmu-attachment').remove();
                 } else {
                     if (r.data.error) {
                         alert(r.data.error);

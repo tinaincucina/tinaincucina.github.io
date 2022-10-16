@@ -810,6 +810,7 @@ jQuery(document).ready(function ($) {
             getAjaxObj(isNativeAjaxEnabled, true, data)
                     .done(function (r) {
                         if (typeof r === 'object') {
+                            console.log('aaaa');
                             if (r.success) {
                                 wpdCancelOrSave(uniqueID, r.data.message);
                                 if (r.data.comment_approved_html) {
@@ -833,7 +834,7 @@ jQuery(document).ready(function ($) {
                             }
                             runCallbacks(r, commentID);
                         } else {
-                            console.log(r);
+                            wpdiscuzAjaxObj.setCommentMessage(r, 'error');
                         }
                         $('#wpdiscuz-loading-bar').fadeOut(250);
                     })
