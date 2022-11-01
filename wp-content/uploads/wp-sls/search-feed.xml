@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-10-30 07:36" -->
+	<!-- generator="WordPress/6.0.3" created="2022-10-30 13:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tina in Cucina</title>
 	<link>https://www.tinaincucina.com</link>
 	<description>Ricette semplici e divertenti per la casa</description>
-	<pubDate>Sun, 30 Oct 2022 07:36:04 +0000</pubDate>
+	<pubDate>Sun, 30 Oct 2022 13:49:53 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.tinaincucina.com</wp:base_site_url>
@@ -159,7 +159,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -274,7 +274,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -413,7 +413,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -528,7 +528,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -663,7 +663,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -787,7 +787,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -939,7 +939,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1055,7 +1055,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1170,7 +1170,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1261,7 +1261,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1385,7 +1385,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1507,7 +1507,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1622,7 +1622,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1768,7 +1768,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1924,7 +1924,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2056,7 +2056,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2163,7 +2163,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2254,7 +2254,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2354,7 +2354,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2465,7 +2465,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2617,7 +2617,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2725,7 +2725,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2833,7 +2833,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2957,7 +2957,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
@@ -3104,7 +3104,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3216,7 +3216,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3348,7 +3348,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3483,7 +3483,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3602,7 +3602,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3734,7 +3734,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3858,7 +3858,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3962,7 +3962,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4065,7 +4065,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4168,7 +4168,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4304,7 +4304,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4447,7 +4447,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4560,7 +4560,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4691,7 +4691,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4798,7 +4798,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4909,7 +4909,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5049,7 +5049,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5152,7 +5152,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5264,7 +5264,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5376,7 +5376,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5508,7 +5508,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5631,7 +5631,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5786,7 +5786,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5901,7 +5901,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6020,7 +6020,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6119,7 +6119,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6250,7 +6250,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6373,7 +6373,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6517,7 +6517,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6632,7 +6632,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6775,7 +6775,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6867,7 +6867,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_edc2e30e5b25f32c0a1d804c20ab4d6b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120975]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707780]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -6879,7 +6879,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6991,7 +6991,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7114,7 +7114,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7222,7 +7222,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_065629906cea353d445f80e960151b5d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120934]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707743]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -7234,7 +7234,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7357,7 +7357,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7480,7 +7480,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7643,7 +7643,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7758,7 +7758,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7901,7 +7901,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8012,7 +8012,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8132,7 +8132,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8251,7 +8251,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8374,7 +8374,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_2aa2a407159d9cdb358e72fd3211b8fd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121198]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707993]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -8386,7 +8386,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8509,7 +8509,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8648,7 +8648,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8759,7 +8759,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8903,7 +8903,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9027,7 +9027,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9142,7 +9142,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9282,7 +9282,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9401,7 +9401,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_678e80f50c2ad2eade071ff9c9dc93e9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121068]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707866]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -9413,7 +9413,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9545,7 +9545,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9682,7 +9682,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9821,7 +9821,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9940,7 +9940,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10055,7 +10055,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10148,7 +10148,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8aa91fc671dfa40ee98784e48b254c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121005]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707809]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10160,7 +10160,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10279,7 +10279,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10402,7 +10402,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_0842c12f6093fc37c68af40a6e30301c]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121125]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707920]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -10414,7 +10414,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10546,7 +10546,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10693,7 +10693,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10808,7 +10808,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10923,7 +10923,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11051,7 +11051,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11170,7 +11170,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11317,7 +11317,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11437,7 +11437,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4541d58c2a43e272bd87909f3d3b743f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120914]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707724]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -11449,7 +11449,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11552,7 +11552,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11655,7 +11655,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11794,7 +11794,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11917,7 +11917,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12045,7 +12045,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12192,7 +12192,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b296f8e04d0af9d4989a7574916a7491]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120776]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707599]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12204,7 +12204,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12339,7 +12339,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12462,7 +12462,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12593,7 +12593,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12812,7 +12812,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12927,7 +12927,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_020347487d2ed9faa97ae6b2a926ab78]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121215]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708010]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -12939,7 +12939,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13067,7 +13067,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13182,7 +13182,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13351,7 +13351,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13455,7 +13455,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1bc0d8a8d15edb8465de06d7ed7e6bac]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120974]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707779]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -13467,7 +13467,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13598,7 +13598,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13745,7 +13745,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13876,7 +13876,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14007,7 +14007,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14127,7 +14127,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_47bc5ecc1785178adefb08f4bf9ad089]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121134]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707929]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -14139,7 +14139,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14266,7 +14266,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14401,7 +14401,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14524,7 +14524,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14651,7 +14651,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14786,7 +14786,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14949,7 +14949,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15084,7 +15084,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15239,7 +15239,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15358,7 +15358,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15486,7 +15486,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15609,7 +15609,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15740,7 +15740,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15867,7 +15867,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15991,7 +15991,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16134,7 +16134,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16253,7 +16253,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16392,7 +16392,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16523,7 +16523,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16646,7 +16646,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>13</wp:comment_id>
@@ -16825,7 +16825,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16940,7 +16940,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17060,7 +17060,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17171,7 +17171,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17274,7 +17274,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17398,7 +17398,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17566,7 +17566,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17702,7 +17702,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17809,7 +17809,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_c3dd83710026d23674565c845f417b7f]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121362]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708241]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -17821,7 +17821,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17990,7 +17990,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18122,7 +18122,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18262,7 +18262,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18397,7 +18397,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18544,7 +18544,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18679,7 +18679,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18834,7 +18834,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -18935,7 +18935,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_e0352a7af4421505b2bd3f6b5e1bd8ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121172]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707966]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -18947,7 +18947,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19078,7 +19078,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19197,7 +19197,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19436,7 +19436,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19576,7 +19576,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19716,7 +19716,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19836,7 +19836,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19980,7 +19980,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20107,7 +20107,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20274,7 +20274,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20386,7 +20386,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20513,7 +20513,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20652,7 +20652,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20776,7 +20776,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -20907,7 +20907,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21046,7 +21046,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21221,7 +21221,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21345,7 +21345,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21457,7 +21457,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21588,7 +21588,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21707,7 +21707,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21851,7 +21851,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -21955,7 +21955,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22054,7 +22054,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22194,7 +22194,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22349,7 +22349,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22494,7 +22494,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22629,7 +22629,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22797,7 +22797,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -22940,7 +22940,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23092,7 +23092,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23219,7 +23219,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23364,7 +23364,7 @@ acquose” e non dovrete aggiungere troppa farina nell’impasto successivo!</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23483,7 +23483,7 @@ acquose” e non dovrete aggiungere troppa farina nell’impasto successivo!</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23624,7 +23624,7 @@ acquose” e non dovrete aggiungere troppa farina nell’impasto successivo!</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23748,7 +23748,7 @@ acquose” e non dovrete aggiungere troppa farina nell’impasto successivo!</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>15</wp:comment_id>
@@ -23894,7 +23894,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24029,7 +24029,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24160,7 +24160,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24287,7 +24287,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24430,7 +24430,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24573,7 +24573,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24693,7 +24693,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24864,7 +24864,7 @@ Proverò la tua perché quel meraviglioso taco/burrito/wrap devo assolutamente r
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>21</wp:comment_id>
@@ -25037,7 +25037,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25184,7 +25184,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25292,7 +25292,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25439,7 +25439,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>17</wp:comment_id>
@@ -25609,7 +25609,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25741,7 +25741,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -25918,7 +25918,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>20</wp:comment_id>
@@ -26060,7 +26060,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26216,7 +26216,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>23</wp:comment_id>
@@ -26385,7 +26385,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26513,7 +26513,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26725,7 +26725,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -26853,7 +26853,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27045,7 +27045,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27160,7 +27160,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27288,7 +27288,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27429,7 +27429,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27556,7 +27556,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27707,7 +27707,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27827,7 +27827,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -27954,7 +27954,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>24</wp:comment_id>
@@ -28097,7 +28097,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28225,7 +28225,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_1696e896ef12b27f03224e0176872a30]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120936]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707745]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28237,7 +28237,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28353,7 +28353,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_06baac6da4e0b40cc71c2bcce16be064]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120997]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707801]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28365,7 +28365,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28484,7 +28484,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28587,7 +28587,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_59723b081a734c5c7819c68a423f4c0e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121212]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708007]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -28599,7 +28599,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28766,7 +28766,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -28881,7 +28881,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29043,7 +29043,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29178,7 +29178,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29317,7 +29317,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29456,7 +29456,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29603,7 +29603,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29742,7 +29742,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29893,7 +29893,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30068,7 +30068,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30175,7 +30175,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30343,7 +30343,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30459,7 +30459,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30583,7 +30583,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30722,7 +30722,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -30905,7 +30905,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31052,7 +31052,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31195,7 +31195,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31335,7 +31335,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31476,7 +31476,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31583,7 +31583,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31732,7 +31732,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_5fb127146ae1c174819d61393e18f3d3]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120925]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707734]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -31744,7 +31744,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -31935,7 +31935,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32111,7 +32111,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32230,7 +32230,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32365,7 +32365,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32516,7 +32516,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32652,7 +32652,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32808,7 +32808,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -32984,7 +32984,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33103,7 +33103,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_83725416b1fdeb2a9a08f60c6a8389ee]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121137]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707931]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33115,7 +33115,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33262,7 +33262,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33410,7 +33410,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33573,7 +33573,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33688,7 +33688,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_30d3eb842f653f17b007f1c70525477b]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120835]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707652]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -33700,7 +33700,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -33868,7 +33868,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34000,7 +34000,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34136,7 +34136,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_d0d8b5fe8eb69ed53f5ada17cc5815b4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121011]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707814]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -34148,7 +34148,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34291,7 +34291,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34443,7 +34443,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34575,7 +34575,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34738,7 +34738,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -34881,7 +34881,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35040,7 +35040,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35168,7 +35168,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35300,7 +35300,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35427,7 +35427,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35545,7 +35545,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ade33ab2bd0e3ca863126017ef4bc804]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121171]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707965]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -35557,7 +35557,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35712,7 +35712,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -35859,7 +35859,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36010,7 +36010,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36157,7 +36157,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36311,7 +36311,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36454,7 +36454,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36607,7 +36607,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36750,7 +36750,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -36913,7 +36913,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37033,7 +37033,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37224,7 +37224,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37344,7 +37344,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37479,7 +37479,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37626,7 +37626,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37750,7 +37750,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -37897,7 +37897,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38033,7 +38033,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38173,7 +38173,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38340,7 +38340,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>27</wp:comment_id>
@@ -38527,7 +38527,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38650,7 +38650,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38793,7 +38793,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -38992,7 +38992,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39291,7 +39291,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39450,7 +39450,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39578,7 +39578,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39705,7 +39705,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39850,7 +39850,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -39977,7 +39977,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40116,7 +40116,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40252,7 +40252,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40384,7 +40384,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40529,7 +40529,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b869ed22677ba440d00e05ffe0e618f7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121308]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708105]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -40541,7 +40541,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40678,7 +40678,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -40830,7 +40830,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41045,7 +41045,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41189,7 +41189,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41337,7 +41337,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41468,7 +41468,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7e80851ea45fe6f11c501467ec710ad6]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121298]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708095]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -41480,7 +41480,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41623,7 +41623,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41747,7 +41747,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41870,7 +41870,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -41991,7 +41991,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42152,7 +42152,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42269,7 +42269,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_4c9320317838c33cad386e7306df12e4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121013]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707816]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -42281,7 +42281,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42412,7 +42412,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42580,7 +42580,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42703,7 +42703,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42850,7 +42850,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -42973,7 +42973,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43105,7 +43105,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43232,7 +43232,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_8e864dd78f343fbb0a7abce23f570654]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121216]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708011]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -43244,7 +43244,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43380,7 +43380,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43527,7 +43527,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43666,7 +43666,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43777,7 +43777,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -43912,7 +43912,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44047,7 +44047,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44211,7 +44211,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44376,7 +44376,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44508,7 +44508,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44652,7 +44652,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44776,7 +44776,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -44884,7 +44884,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45085,7 +45085,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45248,7 +45248,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45375,7 +45375,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_7fa446452d44e6ed71c53d02b4cb0c90]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121233]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669708030]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -45387,7 +45387,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45519,7 +45519,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45670,7 +45670,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45810,7 +45810,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -45946,7 +45946,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46077,7 +46077,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_b738c0d3692c32ed67202af5376c4cc5]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120830]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707648]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -46089,7 +46089,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46216,7 +46216,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46340,7 +46340,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46475,7 +46475,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46606,7 +46606,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46740,7 +46740,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -46883,7 +46883,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47011,7 +47011,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47179,7 +47179,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47343,7 +47343,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47483,7 +47483,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47635,7 +47635,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47758,7 +47758,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -47893,7 +47893,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48028,7 +48028,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48156,7 +48156,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48276,7 +48276,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48440,7 +48440,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48593,7 +48593,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48737,7 +48737,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -48880,7 +48880,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49010,7 +49010,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49142,7 +49142,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49262,7 +49262,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49378,7 +49378,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49506,7 +49506,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49654,7 +49654,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49803,7 +49803,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -49934,7 +49934,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50074,7 +50074,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50199,7 +50199,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50335,7 +50335,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50468,7 +50468,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50583,7 +50583,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50706,7 +50706,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50829,7 +50829,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50945,7 +50945,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51072,7 +51072,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51183,7 +51183,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51395,7 +51395,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51531,7 +51531,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51662,7 +51662,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51790,7 +51790,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -51903,7 +51903,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52011,7 +52011,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52142,7 +52142,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52297,7 +52297,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52422,7 +52422,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52549,7 +52549,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52690,7 +52690,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52826,7 +52826,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -52941,7 +52941,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53097,7 +53097,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53205,7 +53205,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_deeeb03f0150a9942a6325919e366bba]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669121068]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707866]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -53217,7 +53217,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53360,7 +53360,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53484,7 +53484,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53671,7 +53671,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53810,7 +53810,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53914,7 +53914,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54042,7 +54042,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54158,7 +54158,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54286,7 +54286,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54423,7 +54423,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54547,7 +54547,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54691,7 +54691,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54815,7 +54815,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -54942,7 +54942,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55069,7 +55069,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55192,7 +55192,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55327,7 +55327,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55442,7 +55442,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55566,7 +55566,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55685,7 +55685,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -55922,7 +55922,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56034,7 +56034,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56154,7 +56154,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56269,7 +56269,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56377,7 +56377,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56504,7 +56504,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56676,7 +56676,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56800,7 +56800,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_48ca52a81cc4cbb678559798920b94fe]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669120914]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707724]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -56812,7 +56812,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -56956,7 +56956,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57117,7 +57117,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57244,7 +57244,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57397,7 +57397,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57532,7 +57532,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57666,7 +57666,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57830,7 +57830,7 @@ Consiglio per chi come me ha ancora un vecchio forno a gas di girare le ciambell
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -57950,7 +57950,7 @@ A cottura quasi terminata alzate il fuoco, al fine di far evaporare il brodo in 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58079,7 +58079,7 @@ Servite il vostro arrosto di vitello con le verdure che preferite!
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58196,7 +58196,7 @@ In ultimo, ricoprite il tiramisù con la restante crema e livellate il più poss
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58360,7 +58360,7 @@ Per realizzare i <strong>Rotolini ai wurstel </strong>stendete la parta sfoglia 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58476,7 +58476,7 @@ Infornate i biscotti al doppio cioccolato in forno statico preriscaldato a 180°
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58612,7 +58612,7 @@ Servite i vostri vol-au-vent Colorati!
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58734,7 +58734,7 @@ Lasciate raffreddare completamente prima di toglierlo dallo stampo e tagliarlo. 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58866,7 +58866,7 @@ Sfornate e lasciate intiepidire almeno 20 minuti prima di servire; potete presen
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -58985,7 +58985,7 @@ Ecco pronto il <strong>Riso alla cantonese, </strong>colorato e saporito, servit
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59089,7 +59089,7 @@ Ingredienti per 3/4 persone
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59197,7 +59197,7 @@ Sciacquate il basilico e fatelo asciugare. Preparate ora il piatto alternando le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59313,7 +59313,7 @@ Servite i vostri pancakes vegani alla banana impilati uno sopra l'altro, con un 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59419,7 +59419,7 @@ Potete gustare la vostra pasta fredda tiepida oppure potete metterla in frigorif
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59526,7 +59526,7 @@ Cuocere i vostri biscotti in forno statico preriscaldato 180°C per 20 minuti; f
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59646,7 +59646,7 @@ Cuocete la torta ricotta e spinaci in forno statico preriscaldato a 180° per 35
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59774,7 +59774,7 @@ aggiungete l' acqua di cottura tenuta da parte per ammorbidire il condimento. Se
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59873,7 +59873,7 @@ aggiungete l' acqua di cottura tenuta da parte per ammorbidire il condimento. Se
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -59983,7 +59983,7 @@ La Pasta fredda speck noci e crema di robiola e’ pronta, potete servirla diret
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60076,7 +60076,7 @@ Distribuite sopra gli amaretti bagnati di caffè all'amaretto, partendo dall'est
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60189,7 +60189,7 @@ Cuocete la pasta al dente e nel frattempo preparate gli altri ingredienti: tagli
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60293,7 +60293,7 @@ Il vostro pollo alla curcuma e zafferano è pronto, potete servirlo con riso bas
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60407,7 +60407,7 @@ A cottura ultimata togliete la vostra cheesecake dal forno, fatela intiepidire e
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60551,7 +60551,7 @@ Sformate quindi la cheesecake al melone passando la lama di un coltellino affila
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60669,7 +60669,7 @@ Le vostre Capesante sono pronte: io le ho servite su un letto di insalata valeri
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60810,7 +60810,7 @@ Sfornate e lasciate raffreddare in teglia per almeno 3 ore, poi trasferite su un
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -60915,7 +60915,7 @@ Trascorso il tempo indicato spegnete il forno e lasciate i dolcetti a riposare i
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61037,7 +61037,7 @@ Quando il tempo di riposo sarà terminato riprendete il semifreddo alle meringhe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61182,7 +61182,7 @@ Infornate in forno statoti preriscaldato a 180° per 30 minuti, fino a doratura.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61292,7 +61292,7 @@ Sfornate il pane con uvetta e lasciatelo raffreddare prima di servire.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_ab42e74d315cde481eb987110d47e0be]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666682107]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707900]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
@@ -61304,7 +61304,7 @@ Sfornate il pane con uvetta e lasciatelo raffreddare prima di servire.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61416,7 +61416,7 @@ Preparate il Fudge durante le feste di Natale o Pasqua e confezionate i cubotti 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61527,7 +61527,7 @@ Versate il composto sopra la cheesecake già rassodata, riponete in frigorifero 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_expires_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1666878962]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1669707717]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_crp_cache_da9321b5378090c42a19519b93eac561]]></wp:meta_key>
@@ -61543,7 +61543,7 @@ Versate il composto sopra la cheesecake già rassodata, riponete in frigorifero 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61656,7 +61656,7 @@ Sfornate la torta, lasciatela raffreddare all'interno dello stampo, prima di sfo
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462919]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61758,7 +61758,7 @@ Servite la pasta porri speck panna con delle fettine di speck e una spolverata d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61875,7 +61875,7 @@ Disponeteli sulla placca tenendoli un po’ distanziati, poi cuocete i biscotti 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -61985,7 +61985,7 @@ Servite il piatto con il manzo lessato tagliato a fettine affiancato da abbondan
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -62097,7 +62097,7 @@ E' arrivato il momento di assemblare il piatto: tagliate il mango a pezzetti o l
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -62203,7 +62203,7 @@ Sfornate e lasciate raffreddare qualche minuto prima di servire i vostri Muffin 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[462924]]></wp:meta_value>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -62291,6 +62291,149 @@ Una volta pronte, sfornatele e ponetele in un cestino o in una ciotola coprendol
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9058]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_91f87cf34f6c2729315b667ad11b01cb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;i:448;i:1;i:683;i:2;i:730;i:3;i:760;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crp_cache_expires_91f87cf34f6c2729315b667ad11b01cb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1669707657]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pinterest_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_total_shares]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[swp_cache_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[463087]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cupcakes al Cioccolato di Halloween]]></title>
+		<link>https://www.tinaincucina.com/cupcakes-al-cioccolato-di-halloween/</link>
+		<pubDate>Sun, 30 Oct 2022 13:49:53 +0000</pubDate>
+		<dc:creator><![CDATA[Tina]]></dc:creator>
+		<guid isPermaLink="false">https://www.tinaincucina.com/?p=9052</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="wprm-recipe-ingredients-container ingredients">
+<div class="wprm-recipe-ingredient-group">
+
+I Cupcake al cioccolato sono delle golose e morbide tortine monoporzione, realizzate con una base soffice al cacao e frosting al cioccolato fondente. Molto semplici e veloci da realizzare, sono ideali per un tè, una merenda, per arricchire un buffet di dolci e, con queste decorazioni a tema, perfetti per occasioni speciali come Halloween! Preparate questi cupcakes insieme ai vostri bambini per la notte delle streghe; potete anche prepararli il giorno prima e decorarli il giorno dopo! Una volta pronti si conservano in frigorifero per 2-3 giorni!
+<p class="li-subtitle">Per la base di 13 cupcake:</p>
+
+<ul>
+ 	<li>95 gr di farina ’00</li>
+ 	<li>30 gr di cacao amaro in polvere</li>
+ 	<li>60 gr di cioccolato fondente</li>
+ 	<li>100 gr di zucchero</li>
+ 	<li>80 gr di burro a temperatura ambiente</li>
+ 	<li>2 uova</li>
+ 	<li>1 cucchiaino di estratto di vaniglia puro (oppure i semi di 1/2 bacca oppure 1/2 bustina di vanillina)</li>
+ 	<li>1/2 cucchiaio di lievito in polvere per dolci</li>
+ 	<li>1/2 cucchiaino di bicarbonato di sodio</li>
+ 	<li>130 ml di latte fresco</li>
+</ul>
+<p class="li-subtitle">Per il frosting al cioccolato (o crema ganache):</p>
+
+<ul>
+ 	<li>180 gr di cioccolato fondente spezzettato</li>
+ 	<li>180 gr di panna liquida fresca da montare</li>
+ 	<li>50 gr di burro</li>
+ 	<li>50 gr di zucchero</li>
+ 	<li>una bustina di vanillina</li>
+ 	<li>20 gr di cacao amaro</li>
+</ul>
+Per decorare:
+<ul>
+ 	<li>codette colorate di zucchero</li>
+ 	<li>marshmallow</li>
+ 	<li>colorante alimentare</li>
+ 	<li>decorazioni a tema</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container directions">
+<div class="wprm-recipe-instruction-group">
+<div></div>
+<div><strong>Per preparare la base dei cupcake</strong>: In una ciotola versate il burro (ammorbidito a temperatura ambiente) e lo zucchero <span class="num-step">e </span>montate il composto aiutandovi con uno sbattitore elettrico; poi incorporate le uova una alla volta, sempre con lo sbattitore. A parte tritate il cioccolato fondente e scioglietelo in microonde, quindi unitelo al composto di uova e burro insieme al latte a filo.</div>
+<div><img class="alignnone size-full wp-image-9060" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732372_y.jpg" alt="" width="978" height="939" /></div>
+<div><img class="alignnone size-full wp-image-9062" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732378_y.jpg" alt="" width="885" height="909" /></div>
+<div class="wprm-recipe-instruction-text">Mescolate in una ciotola capiente tutte le polveri: la farina, il lievito, la vanillina, il bicarbonato e il cacao amaro in polvere; unite le polveri con una spatola per incorporarle all'impasto, compiendo dei movimenti circolari dall'alto verso il basso.</div>
+<div><img class="alignnone size-full wp-image-9061" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732382_y.jpg" alt="" width="969" height="900" /></div>
+<div class="wprm-recipe-instruction-text">Versate l'impasto dei cupcake nei pirottini (io uso quelli in silicone, ma vanno benissimo anche quelli di carta) riempite 3/4 di ciascun pirottino.</div>
+<div class="wprm-recipe-instruction-text">Cuocete in forno statico preriscaldato a 180° per 15 minuti; sfornateli e fateli raffreddare <span class="num-step">completamente.</span></div>
+<div><img class="alignnone size-full wp-image-9063" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732381_y.jpg" alt="" width="1280" height="960" /></div>
+<div><img class="alignnone size-full wp-image-9064" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732379_y.jpg" alt="" width="1280" height="960" /></div>
+</div>
+</div>
+<div class="wprm-recipe-instruction-text"></div>
+<div>Nel frattempo occupatevi della <strong>crema ganache al cioccolato</strong>: ponete in un pentolino la panna e lo zucchero e portate a bollore; spegnete il fuoco, versate il cioccolato fondente nella panna, aggiungete il burro, il cacao e la vanillina e mescolate con una spatola.</div>
+<div><img class="alignnone size-full wp-image-9065" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732380_y.jpg" alt="" width="1056" height="954" /></div>
+<div></div>
+<div>Lasciate riposare a temperatura ambiente per almeno un' ora prima di utilizzare; poi trasferite la crema ganache in una sac à poche.</div>
+<div><img class="alignnone size-full wp-image-9066" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732377_y.jpg" alt="" width="1041" height="945" /></div>
+<div>
+
+Per decorare i vostri cupcake: con la  mano ferma partite dal centro del Cupcake,  fate un giro completo con la sac à poche; aggiungete degli zuccherini e delle decorazione a tema Halloween (io ho aggiunto anche dei marshmallow con occhietti e bocca!!)...e che la festa stregata abbia inizio!!
+
+<img class="alignnone size-full wp-image-9067" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732376_y.jpg" alt="" width="972" height="860" />
+
+<img class="alignnone size-full wp-image-9068" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732374_y.jpg" alt="" width="1280" height="960" />
+
+<img class="alignnone size-full wp-image-9069" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976510605600866087_y.jpg" alt="" width="864" height="928" />
+
+<img class="alignnone size-full wp-image-9070" src="https://www.tinaincucina.com/wp-content/uploads/2022/10/photo_5976480811412732373_y.jpg" alt="" width="1280" height="960" />
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9052</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-30 13:49:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-30 13:49:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-30 13:49:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-30 13:49:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cupcakes-al-cioccolato-di-halloween]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="ricette-delle-feste"><![CDATA[Ricette delle Feste]]></category>
+		<category domain="category" nicename="dessert"><![CDATA[Torte, Biscotti, Pasticcini e Dessert]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_revision-control]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:8:"defaults";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9071]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
