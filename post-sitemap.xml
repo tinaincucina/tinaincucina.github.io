@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tinaincucina.com/</loc>
-		<lastmod>2022-11-06T08:21:30+00:00</lastmod>
+		<lastmod>2022-11-07T08:04:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tinaincucina.com/straccetti-di-manzo-con-pannocchia-e-broccoli/</loc>
@@ -12290,6 +12290,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_5996949715012401431_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/barrette-proteiche/</loc>
+		<lastmod>2022-11-07T08:04:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771633_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771627_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771628_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771629_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771630_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2022/11/photo_6001453314639771631_y.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
