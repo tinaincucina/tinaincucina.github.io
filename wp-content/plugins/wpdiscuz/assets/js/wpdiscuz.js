@@ -297,6 +297,7 @@ jQuery(document).ready(function ($) {
             $('body').on('submit', '#wpdiscuz-subscribe-form', function (e) {
                 if (!$('#wpdiscuz-recaptcha-field-subscribe-form').val()) {
                     $('.wpdiscuz-recaptcha', $(this)).css('border', '1px solid red');
+                    wpdValidateFieldRequired($(this), '');
                     e.preventDefault();
                 } else {
                     $('.wpdiscuz-recaptcha', $(this)).css('border', 'none');
@@ -305,12 +306,12 @@ jQuery(document).ready(function ($) {
         } else if (wpdiscuzRecaptchaVersion === '3.0') {
             $('body').on('click', '#wpdiscuz_subscription_button', function (e) {
                 var subscriptionForm = $(this).parents('#wpdiscuz-subscribe-form');
+                wpdValidateFieldRequired(subscriptionForm, '');
                 e.preventDefault();
                 try {
                     grecaptcha.ready(function () {
                         grecaptcha.execute(wpdiscuzAjaxObj.wpDiscuzReCaptchaSK, {action: 'wpdiscuz/wpdAddSubscription'})
                                 .then(function (token) {
-                                    console.log(5555);
                                     document.getElementById('wpdiscuz-recaptcha-field-subscribe-form').value = token;
                                     subscriptionForm.trigger('submit');
                                 }, function (reason) {
@@ -1077,6 +1078,7 @@ jQuery(document).ready(function ($) {
         var clickedBtn = $(this);
         var sorting = $(this).attr("data-sorting");
         if (sorting) {
+            $('.wpd-load-comments').parents('.wpd-load-more-submit-wrap').remove();
             $('.wpdiscuz-sort-button.wpdiscuz-sort-button-active').removeClass('wpdiscuz-sort-button-active').appendTo('.wpdiscuz-sort-buttons');
             clickedBtn.addClass('wpdiscuz-sort-button-active').prependTo('.wpdf-sorting');
             var data = new FormData();
@@ -1433,8 +1435,8 @@ jQuery(document).ready(function ($) {
                 });
     }
 
-    $('body').on('click', '.wpd-tools i', function () {
-        var sibling = $(this).siblings('.wpd-tools-actions');
+    $('body').on('click', '.wpd-tools', function () {
+        var sibling = $('.wpd-tools-actions', $(this));
         if (!sibling.is(':visible') && $(this).parents('.wpd-comment-right').attr('id') === $('[id^=comment-]', '#wpdcom').last().attr('id')) {
             $('#comments').css({paddingBottom: '160px'});
         }
