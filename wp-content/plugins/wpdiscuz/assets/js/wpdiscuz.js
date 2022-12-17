@@ -1370,6 +1370,9 @@ jQuery(document).ready(function ($) {
     }
 
     function wpdSanitizeCommentText(form) {
+        if(form.attr('id') == 'wpdiscuz-subscribe-form'){
+            return;
+        }
         var textarea = form.find('.wc_comment');
         var commentText = textarea.val().trim();
         var replacedText = commentText.replace(/<p><br><\/p>/g, "\n").replace(/<p>(.*?)<\/p>/g, "$1\n");
