@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tinaincucina.com/</loc>
-		<lastmod>2023-04-09T07:46:28+00:00</lastmod>
+		<lastmod>2023-04-09T20:36:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tinaincucina.com/straccetti-di-manzo-con-pannocchia-e-broccoli/</loc>
@@ -12714,6 +12714,62 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158337_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/pizzette-di-pasta-lievitata/</loc>
+		<lastmod>2023-04-09T20:25:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158565_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158563_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158562_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158564_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158566_y.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/focaccia-ripiena-di-scamorza-affumicata-funghi-e-prosciutto/</loc>
+		<lastmod>2023-04-09T20:36:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158572_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706359.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706358.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706360.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706368.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706366.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2021/06/photo5942852050708706364.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158569_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158568_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158570_y.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/photo_5879901775908158571_y.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
