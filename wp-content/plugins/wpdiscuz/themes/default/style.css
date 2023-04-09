@@ -1046,7 +1046,7 @@ _:-ms-lang(x), #wpdcom.wpd-layout-3 .wpd-comment.wpd-reply .wpd-comment-footer .
 /* Smart Phones */
 @media screen and (max-width:600px){
     #comments, #respond{padding-left: 0!important;padding-right: 0!important;}
-    #wpdcom {padding: 5px 3%;overflow: hidden;}
+    #wpdcom {padding: 5px 3%;overflow-x: hidden;}
     #wpdcom .wpd-form-row div:hover.wpd-field-desc span {margin-left: -187px;}
     #wpdcom .wpd-form-row div.wpd-field-desc span::after { margin-left: 80px;}
     /*#wpdcom #wpd-threads .wpd-comment-link [wpd-tooltip]::after{left: -150%;top:-16px}*/
