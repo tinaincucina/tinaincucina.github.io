@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tinaincucina.com/</loc>
-		<lastmod>2023-04-15T13:30:47+00:00</lastmod>
+		<lastmod>2023-04-25T16:32:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tinaincucina.com/straccetti-di-manzo-con-pannocchia-e-broccoli/</loc>
@@ -12823,6 +12823,46 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-15-at-15.22.49.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tinaincucina.com/cannoli-siciliani/</loc>
+		<lastmod>2023-04-25T16:32:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.29.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.24.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.23.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.22.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.21.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.20.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.19.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.25.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.18.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.27.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.28.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.tinaincucina.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-25-at-18.11.30.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
