@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "comments/wpdiscuz",
+  "version": "0.1.0",
+  "title": "Comments – wpDiscuz",
+  "category": "theme",
+  "icon": "admin-comments",
+  "description": "Example block scaffolded with Create Block tool.",
+  "usesContext": [
+    "postId",
+    "postType",
+    "queryId"
+  ],
+  "supports": {
+    "align": [
+      "wide",
+      "full"
+    ],
+    "html": false,
+    "__experimentalLayout": true,
+    "dimensions": {
+      "minHeight": true
+    },
+    "typography": {
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true
+      }
+    }
+  },
+  "textdomain": "wpdiscuz",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:../../themes/default/style.css"
+}

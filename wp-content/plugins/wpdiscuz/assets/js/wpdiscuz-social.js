@@ -195,6 +195,9 @@ jQuery(document).ready(function ($) {
         if ($obj.hasClass('wpdsn-baidu')) {
             provider = 'baidu';
         }
+        if ($obj.hasClass('wpdsn-telegram')) {
+            provider = 'telegram';
+        }
         return provider;
     }
 
@@ -204,5 +207,52 @@ jQuery(document).ready(function ($) {
         } else {
             container.find('.wpdiscuz-social-login-spinner').hide();
         }
+    }
+
+//============================== TELEGRAM  ========================== //
+    function haveTgAuthResult() {
+        var locationHash = '', re = /[#\?\&]tgAuthResult=([A-Za-z0-9\-_=]*)$/, match;
+        try {
+            locationHash = location.hash.toString();
+            if (match = locationHash.match(re)) {
+                location.hash = locationHash.replace(re, '');
+                var data = match[1] || '';
+                data = data.replace(/-/g, '+').replace(/_/g, '/');
+                var pad = data.length % 4;
+                if (pad > 1) {
+                    data += new Array(5 - pad).join('=');
+                }
+                return JSON.parse(window.atob(data));
+            }
+        } catch (e) {
+            console.log(e);
+        }
+        return false;
+    }
+
+    var telegramUser = haveTgAuthResult();
+    if (telegramUser) {
+        
+        $('#wpdiscuz-loading-bar').show();
+        $.ajax({
+            type: 'POST',
+            url: wpdiscuzAjaxObj.url,
+            data: {
+                action: 'wpd_login_callback',
+                provider: 'telegram',
+                user: telegramUser,
+            }
+        }).done(function (response) {
+            console.log(response);
+            if (response.success) {
+                location.reload();
+            }else{
+                wpdiscuzAjaxObj.setCommentMessage(response.data, 'error');
+                $('#wpdiscuz-loading-bar').fadeOut(250);
+            }
+        }).fail(function (jqXHR, textStatus, errorThrown) {
+            console.log(errorThrown);
+            $('#wpdiscuz-loading-bar').fadeOut(250);
+        });
     }
 });
