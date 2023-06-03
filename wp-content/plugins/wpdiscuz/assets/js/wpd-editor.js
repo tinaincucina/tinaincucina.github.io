@@ -33,7 +33,7 @@ class wpdEditorCounter {
     update() {
         let length = this.calculate(),
             _length = length - 1;
-        let parentId = this.quill.container.id.substring(this.quill.container.id.lastIndexOf('_') + 1);
+        let parentId = this.quill.container.id.substring(this.quill.container.id.lastIndexOf('-') + 1);
         let commentmaxcount = parseInt(parentId) ? this.replymaxcount : this.commentmaxcount;
 
         if (commentmaxcount > 0 && length >= commentmaxcount) {
