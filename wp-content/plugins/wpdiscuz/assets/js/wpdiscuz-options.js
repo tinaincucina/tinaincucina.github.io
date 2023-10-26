@@ -31,6 +31,12 @@ jQuery(document).ready(function ($) {
             return false;
         }
     });
+    $('body').on('click', '#wpdiscuz-remove-social-avatars', function (e) {
+        if (!confirm(wpdiscuzObj.msgConfirmRemoveSocialAvatars)) {
+            e.preventDefault();
+            return false;
+        }
+    });
     $('body').on('click', '#wpdiscuz-reset-phrases', function (e) {
         if (!confirm(wpdiscuzObj.msgConfirmResetPhrases)) {
             e.preventDefault();
@@ -53,7 +59,6 @@ jQuery(document).ready(function ($) {
         data.append('action', 'wpdStickComment');
         data.append('commentId', commentId);
         data.append('postId', postId);
-        data.append('wpdiscuz_nonce', wpdiscuzObj.wpdiscuz_nonce);
         $.ajax({
             type: 'POST',
             url: ajaxurl,
@@ -88,7 +93,6 @@ jQuery(document).ready(function ($) {
         data.append('action', 'wpdCloseThread');
         data.append('commentId', commentId);
         data.append('postId', postId);
-        data.append('wpdiscuz_nonce', wpdiscuzObj.wpdiscuz_nonce);
         $.ajax({
             type: 'POST',
             url: ajaxurl,
@@ -127,7 +131,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {stcrData: data, 'action': 'wpdImportSTCR', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {stcrData: data, 'action': 'wpdImportSTCR'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -174,7 +178,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {lstcData: data, 'action': 'wpdImportLSTC', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {lstcData: data, 'action': 'wpdImportLSTC'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -225,7 +229,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {voteRegenerateData: data, action: 'wpdRegenerateVoteMetas', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {voteRegenerateData: data, action: 'wpdRegenerateVoteMetas'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -279,7 +283,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {closedRegenerateData: data, action: 'wpdRegenerateClosedComments', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {closedRegenerateData: data, action: 'wpdRegenerateClosedComments'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -333,7 +337,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {regenerateVoteData: data, action: 'wpdRegenerateVoteData', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {regenerateVoteData: data, action: 'wpdRegenerateVoteData'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -383,7 +387,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {syncCommenterData: data, action: 'wpdSyncCommenterData', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {syncCommenterData: data, action: 'wpdSyncCommenterData'}
         }).done(function (r) {
             if (typeof r === 'object') {
                 if (r.success) {
@@ -422,7 +426,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {rebuildRatings: data, action: 'wpdRebuildRatings', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {rebuildRatings: data, action: 'wpdRebuildRatings'}
         }).done(function (response) {
             try {
                 var resp = JSON.parse(response);
@@ -471,7 +475,7 @@ jQuery(document).ready(function ($) {
         $.ajax({
             type: 'POST',
             url: ajaxurl,
-            data: {fixTables: data, action: 'wpdFixTables', wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce}
+            data: {fixTables: data, action: 'wpdFixTables'}
         }).done(function (r) {
             if (typeof r === 'object') {
                 if (r.success) {
@@ -737,19 +741,20 @@ jQuery(document).ready(function ($) {
         }
     });
     $('body').on('input', '#wpd-opt-search-field', function () {
-        var s = $(this).val();
+        const el = $(this);
+        var s = el.val();
         s = s.trim();
         if (s.length > 2) {
             if (searchAjax) {
                 searchAjax.abort();
             }
+            el.closest('.wpd-opt-search').find('.dashicons').removeClass('dashicons-search').addClass('dashicons-update spin');
             searchAjax = $.ajax({
                 type: 'POST',
                 url: ajaxurl,
                 data: {
                     action: 'searchOption',
-                    s: s,
-                    wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce
+                    s: s
                 }
             });
             searchAjax.done(function (r) {
@@ -758,6 +763,7 @@ jQuery(document).ready(function ($) {
                 } else {
                     $('#wpd-opt-search-results').html('').hide();
                 }
+                el.closest('.wpd-opt-search').find('.dashicons').removeClass('dashicons-update spin').addClass('dashicons-search');
             }).fail(function (jqXHR, textStatus, errorThrown) {
                 console.log(errorThrown);
             });
@@ -973,7 +979,7 @@ function wpd_stat_brief() {
         url: ajaxurl,
         data: {
             action: 'wpd_stat_brief',
-            wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce
+            security: wpdiscuzObj.wpdOptionNonce,
         }
     }).done(function (r) {
         if (r.success) {
@@ -997,7 +1003,7 @@ function wpd_stat_subs(el, body) {
         url: ajaxurl,
         data: {
             action: 'wpd_stat_subs',
-            wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce
+            security: wpdiscuzObj.wpdOptionNonce,
         }
     }).done(function (r) {
         body.html(r);
@@ -1022,7 +1028,7 @@ function wpd_stat_graph(el, body) {
         data: {
             action: 'wpd_stat_graph',
             interval: interval,
-            wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce
+            security: wpdiscuzObj.wpdOptionNonce,
         }
     }).done(function (r) {
         if (r.success) {
@@ -1097,7 +1103,7 @@ function wpd_stat_user(el, body) {
             orderby: orderby,
             order: order,
             page: wpdStatUserPage,
-            wpdiscuz_nonce: wpdiscuzObj.wpdiscuz_nonce
+            security: wpdiscuzObj.wpdOptionNonce,
         }
     }).done(function (r) {
         if (r.success) {

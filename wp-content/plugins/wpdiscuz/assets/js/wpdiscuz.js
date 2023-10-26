@@ -81,7 +81,6 @@ jQuery(document).ready(function ($) {
     var wpdiscuzRecaptchaVersion = wpdiscuzAjaxObj.wpDiscuzReCaptchaVersion;
     var commentListLoadType = parseInt(wpdiscuzAjaxObj.commentListLoadType);
     var wpdiscuzPostId = parseInt(wpdiscuzAjaxObj.wc_post_id);
-    wpdiscuzAjaxObj.wpdiscuz_nonce = '';
     var commentListUpdateType = parseInt(wpdiscuzAjaxObj.commentListUpdateType);
     var commentListUpdateTimer = parseInt(wpdiscuzAjaxObj.commentListUpdateTimer) * 1000;
     var enableGuestsLiveUpdate = parseInt(wpdiscuzAjaxObj.liveUpdateGuests);
@@ -227,6 +226,10 @@ jQuery(document).ready(function ($) {
 
     $('body').on('click', '#wpdcom [data-wpd-clipboard]', function () {
         var val = $(this).data('wpd-clipboard');
+        var mention = $(this).data('wpd-ismention');
+        if(mention){
+            val = '@' + val;
+        }
         var el = $('<input/>');
         el.appendTo('body').css({'position': 'absolute', 'top': '-10000000px'}).val(val);
         el.trigger('select');
@@ -524,7 +527,7 @@ jQuery(document).ready(function ($) {
     }
 
 //============================== /reCAPTCHA ============================== //
-//============================== ADD COMMENT FUNCTION ============================== // 
+//============================== ADD COMMENT FUNCTION ============================== //
 
     $('body').on('click', '.wc_comm_submit.wpd_not_clicked', function () {
         var currentSubmitBtn = $(this);
@@ -738,7 +741,7 @@ jQuery(document).ready(function ($) {
     }
 
 //============================== /ADD COMMENT FUNCTION ============================== //
-//============================== EDIT COMMENT FUNCTION ============================== // 
+//============================== EDIT COMMENT FUNCTION ============================== //
     var wcCommentTextBeforeEditing;
 
     $('body').on('click', '.wpd_editable_comment', function () {
@@ -811,7 +814,6 @@ jQuery(document).ready(function ($) {
             getAjaxObj(isNativeAjaxEnabled, true, data)
                     .done(function (r) {
                         if (typeof r === 'object') {
-                            console.log('aaaa');
                             if (r.success) {
                                 wpdCancelOrSave(uniqueID, r.data.message);
                                 if (r.data.comment_approved_html) {
@@ -860,8 +862,8 @@ jQuery(document).ready(function ($) {
         $('#wpd-comm-' + uniqueID + ' > .wpd-comment-wrap .wpd-comment-last-edited').show();
     }
 
-//============================== /EDIT COMMENT FUNCTION ============================== // 
-//============================== LOAD MORE ============================== // 
+//============================== /EDIT COMMENT FUNCTION ============================== //
+//============================== LOAD MORE ============================== //
     if (!wordpressIsPaginate && firstLoadWithAjax) {
         wpdiscuzLoadCount = 0;
         if (firstLoadWithAjax == 1) {
@@ -995,8 +997,8 @@ jQuery(document).ready(function ($) {
     }
 
     wpdiscuzAjaxObj.setLoadMoreVisibility = setLoadMoreVisibility;
-//============================== /LOAD MORE ============================== // 
-//============================== VOTE  ============================== // 
+//============================== /LOAD MORE ============================== //
+//============================== VOTE  ============================== //
     $('body').on('click', '.wpd-vote-up.wpd_not_clicked, .wpd-vote-down.wpd_not_clicked', function () {
         var currentVoteBtn = $(this);
         $(currentVoteBtn).removeClass('wpd_not_clicked');
@@ -1019,7 +1021,7 @@ jQuery(document).ready(function ($) {
                     if (typeof r === 'object') {
                         if (r.success) {
                             if (r.data.buttonsStyle === 'total') {
-                                var voteCountDiv = $('.wpd-comment-footer .wpd-vote-result', $('#comment-' + commentID));
+                                var voteCountDiv = $('#comment-' + commentID + ' .wpd-comment-footer .wpd-vote-result');
                                 var votes = r.data.votes;
                                 voteCountDiv.text(r.data.votesHumanReadable);
                                 voteCountDiv.attr('title', votes);
@@ -1031,8 +1033,8 @@ jQuery(document).ready(function ($) {
                                     voteCountDiv.addClass('wpd-down');
                                 }
                             } else {
-                                var likeCountDiv = $('.wpd-comment-footer .wpd-vote-result-like', $('#comment-' + commentID));
-                                var dislikeCountDiv = $('.wpd-comment-footer .wpd-vote-result-dislike', $('#comment-' + commentID));
+                                var likeCountDiv = $('#comment-' + commentID + ' .wpd-comment-footer .wpd-vote-result-like');
+                                var dislikeCountDiv = $('#comment-' + commentID + ' .wpd-comment-footer .wpd-vote-result-dislike');
                                 likeCountDiv.text(r.data.likeCountHumanReadable);
                                 likeCountDiv.attr('title', r.data.likeCount);
                                 dislikeCountDiv.text(r.data.dislikeCountHumanReadable);
@@ -1040,8 +1042,8 @@ jQuery(document).ready(function ($) {
                                 parseInt(r.data.likeCount) > 0 ? likeCountDiv.addClass('wpd-up') : likeCountDiv.removeClass('wpd-up');
                                 parseInt(r.data.dislikeCount) < 0 ? dislikeCountDiv.addClass('wpd-down') : dislikeCountDiv.removeClass('wpd-down');
                             }
-                            var voteUpDiv = $('.wpd-comment-footer .wpd-vote-up', $('#comment-' + commentID));
-                            var voteDownDiv = $('.wpd-comment-footer .wpd-vote-down', $('#comment-' + commentID));
+                            var voteUpDiv = $('#comment-' + commentID + ' .wpd-comment-footer .wpd-vote-up');
+                            var voteDownDiv = $('#comment-' + commentID + ' .wpd-comment-footer .wpd-vote-down');
                             voteUpDiv.removeClass('wpd-up');
                             voteDownDiv.removeClass('wpd-down');
                             if (r.data.curUserReaction > 0) {
@@ -1104,8 +1106,8 @@ jQuery(document).ready(function ($) {
                     });
         }
     });
-//============================== /SORTING ============================== // 
-//============================== SINGLE COMMENT ============================== // 
+//============================== /SORTING ============================== //
+//============================== SINGLE COMMENT ============================== //
     function getSingleComment(showReply) {
         var loc = location.href;
         var matches = loc.match(/#comment\-(\d+)/);
@@ -1173,7 +1175,7 @@ jQuery(document).ready(function ($) {
     }
 
 //============================== /SINGLE COMMENT ============================== //
-//============================== LIVE UPDATE ============================== // 
+//============================== LIVE UPDATE ============================== //
     function liveUpdate() {
         var data = new FormData();
         data.append('action', 'wpdUpdateAutomatically');
@@ -1211,7 +1213,7 @@ jQuery(document).ready(function ($) {
     }
 
 //============================== /LIVE UPDATE ============================== //
-//============================== READ MORE ============================== // 
+//============================== READ MORE ============================== //
     $('body').on('click', '.wpdiscuz-readmore', function () {
         var uniqueId = getUniqueID($(this));
         var commentId = getCommentID(uniqueId);
@@ -1238,7 +1240,7 @@ jQuery(document).ready(function ($) {
                     $('#wpdiscuz-loading-bar').fadeOut(250);
                 });
     });
-//============================== /READ MORE ============================== // 
+//============================== /READ MORE ============================== //
 //============================== FUNCTIONS ============================== //
 
     function cloneSecondaryForm(field) {
@@ -1718,7 +1720,9 @@ jQuery(document).ready(function ($) {
         if (bubbleHintTimeout && !Cookies.get(wpdiscuzAjaxObj.cookieHideBubbleHint)) {
             setTimeout(function () {
                 $('#wpd-bubble-wrapper').addClass('wpd-bubble-hover');
-                Cookies.set(wpdiscuzAjaxObj.cookieHideBubbleHint, '1', {expires: 7, path: '/'});
+                const ckePath = wpdiscuzAjaxObj.bubbleHintShowOnce ? '/' : location.href;
+                const ckeExpires  = wpdiscuzAjaxObj.bubbleHintCookieExpires ? parseInt(wpdiscuzAjaxObj.bubbleHintCookieExpires, 10) : '';
+                Cookies.set(wpdiscuzAjaxObj.cookieHideBubbleHint, '1', {expires: parseInt(wpdiscuzAjaxObj.bubbleHintCookieExpires, 10), path: ckePath});
                 setTimeout(function () {
                     $('#wpd-bubble-wrapper').removeClass('wpd-bubble-hover');
                 }, bubbleHintHideTimeout * 1000);
@@ -2317,7 +2321,6 @@ jQuery(document).ready(function ($) {
             $('#wpdiscuz-loading-bar').show();
         }
         data.append('postId', wpdiscuzPostId);
-        data.append('wpdiscuz_nonce', wpdiscuzAjaxObj.wpdiscuz_nonce);
         var action = data.get('action');
         if (wpdiscuzAjaxObj.dataFilterCallbacks && wpdiscuzAjaxObj.dataFilterCallbacks[action]) {
             $.each(wpdiscuzAjaxObj.dataFilterCallbacks[action], function (i) {
@@ -2337,30 +2340,6 @@ jQuery(document).ready(function ($) {
     }
 
     wpdiscuzAjaxObj.getAjaxObj = getAjaxObj;
-    wpdiscuzAjaxObj.initNonce = initNonce;
-
-    initNonce();
-
-    function initNonce() {
-        if (isUserLoggedIn || wpdiscuzAjaxObj.validateNonceForGuests) {
-            var data = new FormData();
-            data.append('action', 'wpdGetNonce');
-            getAjaxObj(isNativeAjaxEnabled, false, data).done(function (r) {
-                if (typeof r === 'object') {
-                    if (r.success) {
-                        wpdiscuzAjaxObj.wpdiscuz_nonce = r.data;
-                    } else {
-                        wpdiscuzAjaxObj.setCommentMessage(r.data, 'error');
-                    }
-                } else {
-                    console.log(r);
-                }
-            }).fail(function (jqXHR, textStatus, errorThrown) {
-                console.log(errorThrown);
-            });
-        }
-    }
-
 });
 //========================= reCAPTCHA =====================//
 var onloadCallback = function () {
